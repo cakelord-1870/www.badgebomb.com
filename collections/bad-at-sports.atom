@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/bad-at-sports.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2021-06-22T17:00:00-07:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/6858548576423</id>
+    <published>2021-06-22T17:00:00-07:00</published>
+    <updated>2021-06-22T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-inactive-wear-patch"/>
+    <title>Inactive Wear Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4426.jpg?v=1624473033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inactive Wear Patch by Gemma Correll.</p><ul style="color: #212b36; font-family: -apple-system, system-ui, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"><li>Packaged in our new plastic free 4" x 5" hang card with UPC.</li></ul><p>All Badge Bomb purchases support 1% For The Planet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6858548576423</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4426</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167421026471</id>
+    <published>2021-01-08T01:00:11-08:00</published>
+    <updated>2021-01-08T01:00:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/bad-at-sports-sticker"/>
+    <title>Bad at Sports Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4728-STICKER-Bad-At-Sports-Penant-1200px.jpg?v=1609370600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bad at Sports Sticker by Gemma Correll. Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167421026471</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4728</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167420764327</id>
+    <published>2021-01-08T01:00:10-08:00</published>
+    <updated>2021-01-08T01:00:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/all-state-dog-petting-champion-sticker"/>
+    <title>All State Dog Petting Champion Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4725-STICKER-Dog-Petting-Champion-1200px.jpg?v=1609370596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All State Dog Petting Champion Sticker by Gemma Correll<span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">. </span></p><ul>
+<li>Waterproof, sun-proof, long-lasting</li>
+<li>2 3/4 x 3 3/8"</li>
+<li>Sold loose in 12s</li>
+<li>Made in USA</li>
+</ul><p>Badge Bomb is a member of 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167420764327</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4725</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167420862631</id>
+    <published>2021-01-08T01:00:09-08:00</published>
+    <updated>2021-01-08T01:00:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-all-state-cat-petting-champion-sticker"/>
+    <title>All State Cat Petting Champion Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4726-STICKER-Cat-Petting-Champion-1200px.jpg?v=1609370597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All State Cat Petting Champion Sticker by Gemma Correll<span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">. </span></p><ul>
+<li>Waterproof, sun-proof, long-lasting</li>
+<li>2 3/4 x 3 3/8"</li>
+<li>Sold loose in 12s</li>
+<li>Made in USA</li>
+</ul><p>Badge Bomb is a member of 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cats</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167420862631</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4726</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6012117942439</id>
+    <published>2020-11-05T01:00:11-08:00</published>
+    <updated>2020-11-05T01:00:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/all-state-cat-petting-champion-enamel-pin"/>
+    <title>All State Cat Petting Champion Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4691-CatPettingChampion.jpg?v=1604519911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All State Cat Petting Champion Enamel Pin by Gemma Correll.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6012117942439</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4691</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492925435994</id>
+    <published>2020-01-01T01:00:22-08:00</published>
+    <updated>2020-01-01T01:00:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-morel-support"/>
+    <title>Morel Support Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4548-Morel-MAGNET-Web.jpg?v=1577815645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Morel Support Magnet by Gemma Correll. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492925435994</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4548</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492925370458</id>
+    <published>2020-01-01T01:00:20-08:00</published>
+    <updated>2020-01-01T01:00:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-i-have-no-idea-what-im-doing"/>
+    <title>I Have No Idea What I&apos;m Doing Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4546-NoIDea-MAGNET-Web.jpg?v=1577815432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Have No Idea What I'm Doing Magnet by Gemma Correll.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492925370458</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4546</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492904202330</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/we-met-on-the-internet-sticker"/>
+    <title>We Met On The Internet Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4532-STICKER-We-Met-On-The-Internet-900px.jpg?v=1578375318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We Met On The Internet Sticker by Gemma Correll. Waterproof, sun-proof, long-lasting big sticker. </p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul><p>See more designs like this <a title="Badge Bomb Buttons Magnets Patches Pins Stickers Cats Dogs" href="../../../../../cats">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dogs</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492904202330</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4532</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492890439770</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/id-rather-be-napping-3-sticker"/>
+    <title>I&apos;d Rather Be Napping Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4446-STICKER-Id-Rather-Be-Napping-Pug-900px.jpg?v=1578374710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I'd Rather Be Napping Sticker by Gemma Correll. Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul><p>See more Gemma Correll designs like this <a title="Badge Bomb Buttons Magnets Pins Patches Stickers Dogs Gemma Correll" href="../../../../../dogs">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adulting</s:tag>
+    <s:tag>dogs</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492890439770</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4446</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492861603930</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/bad-at-sports-1-25-button-box"/>
+    <title>Bad At Sports Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Bad_at_Sports_BB4454.jpg?v=1577819350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bad At Sports Button Box by Gemma Correll. Who are you rooting for? the mild cats? the oddballs? the couch potatoes? This one goes out to all the slow pokes out there! 120 buttons, 16 designs, 1.25" buttons.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492861603930</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>BB4454</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4267372871770</id>
+    <published>2019-10-15T10:33:32-07:00</published>
+    <updated>2019-10-15T10:33:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/dog-petting-champion-enamel-pin"/>
+    <title>Dog Petting Champion Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4373-DogPettingChampion-1600px.jpg?v=1571160300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dog Petting Champion Enamel Pin by Gemma Correll.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4267372871770</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4373</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4267373068378</id>
+    <published>2019-10-15T10:33:29-07:00</published>
+    <updated>2019-10-15T10:33:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/bad-at-sports-orange-pennant-pin"/>
+    <title>Bad At Sports Orange Pennant Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4221-BadAtSports-PennantPin-Orange-1600px.jpg?v=1571160303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bad At Sports Orange Pennant Pin by Gemma Correll. Picked last in gym class? This is for you!</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Enamel Pins</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4267373068378</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4421</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4267372281946</id>
+    <published>2019-10-14T17:00:00-07:00</published>
+    <updated>2019-10-14T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/bad-at-sports-blue-pennant-pin"/>
+    <title>Bad At Sports Blue Pennant Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4366-BadAtSports-Pin-Blue-1200px.jpg?v=1571160274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bad At Sports Blue Pennant Pin by Gemma Correll! Show off your (un)athleticism with this flashy pennant pin! </p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4267372281946</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4366</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/3876842631</id>
+    <published>2015-12-30T11:27:00-08:00</published>
+    <updated>2015-12-30T11:27:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/we-met-on-the-internet"/>
+    <title>We Met on the Internet Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3096-GemmaCorrell-MAGNET-1200px.jpg?v=1541547196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/we-met-on-the-internet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We Met on the Internet Big Magnet by Gemma Correll</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3876842631</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3096</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3876842631</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3096 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/jigsaw-puzzles.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2021-06-09T07:55:46-07:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/6809000804519</id>
+    <published>2021-06-09T07:55:46-07:00</published>
+    <updated>2021-06-09T07:55:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/grow-your-own-500-piece-puzzle"/>
+    <title>Grow Your Own 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4799-GrowYourOwn-Puzzle-SalesImage-1200px.jpg?v=1623766463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grow Your Own 500 Piece Puzzle. Includes a printed poster of the puzzle art.</p><p>Puzzle Specs:</p><ul>
+<li>18” x 24” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Ribbon cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 11.75 x 8 x 2".</li>
+</ul><p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6809000804519</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4799</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6809000771751</id>
+    <published>2021-06-09T07:53:40-07:00</published>
+    <updated>2021-06-09T07:53:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/puzzlers-paradise-500-piece-puzzle"/>
+    <title>Puzzler&apos;s Paradise 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4800-Puzzler_sParadise-Puzzle-SalesImage-1200px.jpg?v=1623766516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Puzzler's Paradise 500 Piece Puzzle by Allison Cole. Includes a printed poster of the puzzle art.</p><p>Puzzle Specs:</p><ul>
+<li>18” x 24” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Ribbon cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 11.75 x 8 x 2".</li>
+</ul><p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6809000771751</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4800</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6809000870055</id>
+    <published>2021-06-03T01:00:14-07:00</published>
+    <updated>2021-06-03T01:00:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/color-in-bloom-puzzle"/>
+    <title>Color In Bloom 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>She Is This</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4798-ColorInBloom-Puzzle-SheIsThis-1296px.jpg?v=1622663995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>She Is This<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Color In Bloom 500 Piece Puzzle. Includes a printed poster of the puzzle art.</p><p>Puzzle Specs:</p><ul>
+<li>18” x 24” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Ribbon cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 11.75 x 8 x 2".</li>
+</ul><p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6809000870055</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4798</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6809000476839</id>
+    <published>2021-06-03T01:00:14-07:00</published>
+    <updated>2021-06-03T01:00:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/dream-reality-by-gary-baseman-500-piece-puzzle"/>
+    <title>Dream Reality by Gary Baseman - 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Gary Baseman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4801-Baseman-DreamReality-SalesImage-300dpi.jpg?v=1622663966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gary Baseman<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dream Reality by Gary Baseman - 500 Piece Puzzle. Includes a printed poster of the puzzle artwork.</p>
+<p>Puzzle Specs:</p>
+<ul>
+<li>18” x 24” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Irregular cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 11.75 x 8 x 2".</li>
+</ul>
+<p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6809000476839</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4801</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6809000673447</id>
+    <published>2021-06-01T17:00:00-07:00</published>
+    <updated>2021-06-01T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/wild-cats-500-piece-puzle"/>
+    <title>Wild Cats 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4802-WildCats-Puzzle-SalesImage-1200px.jpg?v=1623766499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wild Cats 500 Piece Puzzle. Includes a printed poster of the puzzle design.</p><p>Puzzle Specs:</p><ul>
+<li>18” x 24” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Ribbon cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 11.75 x 8 x 2".</li>
+</ul><p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6809000673447</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4802</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6809000542375</id>
+    <published>2021-06-01T17:00:00-07:00</published>
+    <updated>2021-06-01T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/i-heart-portland-500-piece-puzzle"/>
+    <title>I Heart Portland 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4803-Portland-Puzzle-SalesImage-1200px.jpg?v=1623766540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Heart Portland 500 Piece Puzzle. Includes a printed poster of the puzzle design.</p><p>Puzzle Specs:</p><ul>
+<li>16.5” x 22.5” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Random ribbon cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 6.75 x 9.25 x 2".</li>
+</ul><p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6809000542375</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4803</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6646201417895</id>
+    <published>2021-04-19T01:00:10-07:00</published>
+    <updated>2021-04-19T01:00:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/cosmic-dreams-500-piece-puzzle"/>
+    <title>Cosmic Dreams 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4719-CosmicDreans-Puzzle-SalesImage-1200px.jpg?v=1618601130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cosmic Dreams 500 Piece Puzzle. Includes a printed poster of the puzzle design. </p>
+<p>Puzzle Specs:</p>
+<ul>
+<li>18” x 24” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Irregular cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 11.75 x 8 x 2".<br>
+</li>
+</ul>
+<p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Space</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6646201417895</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4719</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6221764821159</id>
+    <published>2021-01-19T16:00:00-08:00</published>
+    <updated>2021-01-19T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/good-evening-500-piece-puzzle"/>
+    <title>Good Evening 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4714-GoodEveningPuzzle-SalesImage-1200px.jpg?v=1611173803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Good Evening 500 Piece Puzzle by Allison Cole. This quiet cityscape is reminiscent of an evening walk - without having to leave your house.</p>
+<p>Puzzle Specs:</p>
+<ul style="color: #212b36; font-family: -apple-system, system-ui, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">
+<li>16.5” x 22.5” Puzzle.</li>
+<li>500 Pieces.</li>
+<li>Random Ribbon Cut Pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Compact box design to reduce packaging: 6.75 x 9.25 x 2"</li>
+</ul>
+<p>Badge Bomb is a member of 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6221764821159</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4714</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6221764526247</id>
+    <published>2021-01-19T16:00:00-08:00</published>
+    <updated>2021-01-19T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/bird-school-500-piece-puzzle"/>
+    <title>Bird School 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4713-BirdSchool-Mockup-1200px.jpg?v=1611173799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bird School 500 Piece Puzzle. From a pigeon to a wren to a black-capped chickadee, there's a bird for everyone in this puzzle.</p>
+<p>Puzzle Specs:</p>
+<ul style="color: #212b36; font-family: -apple-system, system-ui, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">
+<li>16.5” x 22.5” Puzzle.</li>
+<li>500 Pieces.</li>
+<li>Random ribbon cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Compact box design to reduce packaging: 6.75 x 9.25 x 2"</li>
+</ul>
+<p>Badge Bomb is a member of 1% For the Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animals</s:tag>
+    <s:tag>Camping</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6221764526247</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4713</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6012116762791</id>
+    <published>2020-11-05T01:00:12-08:00</published>
+    <updated>2020-11-05T01:00:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/puzzle-piece-enamel-pin"/>
+    <title>Puzzle Piece Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4694-PuzzlePiece-1200x1200_027e5322-c05c-4880-82fe-29ce24134594.jpg?v=1620850672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Puzzle Piece Enamel Pin. Original Design by Badge Bomb.</p><ul>
+<li>Hand-illustrated 1.25" enamel pin</li>
+<li>Butterfly clasp for durability</li>
+<li>Brass core with satin nickel finish.</li>
+<li>Packaged on backer card in hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6012116762791</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4694</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5638516506791</id>
+    <published>2020-08-14T14:30:02-07:00</published>
+    <updated>2020-08-14T14:30:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/all-dogs-are-good-dogs-jigsaw-puzzle"/>
+    <title>All Dogs Are Good Dogs 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4644-AllDogs-Puzzle-SalesImage-1200px.jpg?v=1611327160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff8000;"><em><strong></strong></em></span><span style="font-weight: 400;">Gemma Correll is a writer, artist, and cartoonist. Originally from England, she currently resides in Orange, California with her trusty pug sidekicks, Mr Pickles &amp; Zander.</span></p>
+<ul>
+<li><span style="font-weight: 400;">16.5” x 22.5” Puzzle.</span></li>
+<li><span style="font-weight: 400;">500 Pieces.</span></li>
+<li><span style="font-weight: 400;">Made from 100% recycled gray board.</span></li>
+<li><span style="font-weight: 400;">Printed with vegetable-based inks.</span></li>
+<li><span style="font-weight: 400;">Compact box design to reduce packaging.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5638516506791</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4644</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5638516408487</id>
+    <published>2020-08-14T14:30:00-07:00</published>
+    <updated>2020-08-14T14:30:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pollinator-playground-jigsaw-puzzle"/>
+    <title>Pollinator Playground 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Badge Bomb Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4634-PollinatorPlayGround-Puzzle-SalesImage-1200px.jpg?v=1611327287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb Shop<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff8000;"><em><strong></strong></em></span><span style="font-weight: 400;">The second illustration in our Imaginary Journey puzzle series by Kate Sutton, a UK-based artist who finds inspiration from her journeys in nature. This illustration pays homage to the bees, butterflies, hummingbirds, and other pollinators in the fields of Mount Hood, a volcanic wonder near Badge Bomb’s home town of Portland, OR.</span></p>
+<p><span style="font-weight: 400;">Puzzle Specs:</span></p>
+<ul>
+<li><span style="font-weight: 400;">16.5” x 22.5” Puzzle.</span></li>
+<li><span style="font-weight: 400;">500 Pieces.</span></li>
+<li><span style="font-weight: 400;">Standard ribbon cut pieces.</span></li>
+<li><span style="font-weight: 400;">Made from 100% recycled gray board.</span></li>
+<li><span style="font-weight: 400;">Printed with vegetable-based inks.</span></li>
+<li><span style="font-weight: 400;">Compact box design to reduce packaging<meta charset="utf-8">
+<span data-mce-fragment="1">: 6.75 x 9.25 x 2"</span></span></li>
+</ul>
+<p><span style="font-weight: 400;">Badge Bomb is a member of 1% For The Planet!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5638516408487</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4634</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5638516310183</id>
+    <published>2020-08-14T14:29:51-07:00</published>
+    <updated>2020-08-14T14:29:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/a-birds-eye-view-jigsaw-puzzle"/>
+    <title>A Bird&apos;s Eye View 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Badge Bomb Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4633-ImaginaryJourneyPuzzle-SalesImage-1200px.jpg?v=1611327374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb Shop<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><em><span style="font-weight: 400;"><strong></strong></span></em></span><span style="font-weight: 400;">The first offering in our new Imaginary Journey puzzle series illustrated by Kate Sutton, a UK-based artist who finds inspiration from her journeys in nature. She currently resides near northwest England’s Lake District National Park. Its glacial lakes and rugged mountains provided the setting for this challenging puzzle.</span></p>
+<p><span style="font-weight: 400;">Puzzle Specs:</span></p>
+<ul>
+<li><span style="font-weight: 400;">16.5” x 22.5” size puzzle.</span></li>
+<li><span style="font-weight: 400;">500 Pieces.</span></li>
+<li><span style="font-weight: 400;">Standard ribbon cut pieces.</span></li>
+<li><span style="font-weight: 400;">Made from 100% recycled gray board.</span></li>
+<li><span style="font-weight: 400;">Printed with vegetable-based inks.</span></li>
+<li><span style="font-weight: 400;">Compact box design to reduce packaging<meta charset="utf-8">
+<span data-mce-fragment="1">: 6.75 x 9.25 x 2"</span></span></li>
+</ul>
+<p><span style="font-weight: 400;">Badge Bomb is a member of 1% For The Planet!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5638516310183</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4633</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5638516277415</id>
+    <published>2020-08-14T14:29:46-07:00</published>
+    <updated>2020-08-14T14:29:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/the-stars-of-the-sea-jigsaw-puzzle"/>
+    <title>The Stars of the Sea 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Badge Bomb Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4645-StarsOfTheSea-Puzzle-SalesImage-1200px.jpg?v=1611327333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb Shop<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="color: #ff8000;"><em><strong></strong></em></span><span style="font-weight: 400;"><span>The third illustration in our Imaginary Journey puzzle series by Kate Sutton, a UK-based artist who finds inspiration from her journeys in nature. </span>Deep in the Pacific, the night life of marine life provides the setting for this original illustration.</span></p>
+<p><span style="font-weight: 400;">Puzzle Specs:</span></p>
+<ul>
+<li><span style="font-weight: 400;">16.5” x 22.5” Puzzle.</span></li>
+<li><span style="font-weight: 400;">500 Pieces.</span></li>
+<li><span style="font-weight: 400;">Standard ribbon cut pieces.</span></li>
+<li><span style="font-weight: 400;">Made from 100% recycled gray board.</span></li>
+<li><span style="font-weight: 400;">Printed with vegetable-based inks.</span></li>
+<li><span style="font-weight: 400;">Compact box design to reduce packaging<meta charset="utf-8">
+<span data-mce-fragment="1">: 6.75 x 9.25 x 2"</span></span></li>
+</ul>
+<p><span style="font-weight: 400;">Badge Bomb is a member of 1% For The Planet!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5638516277415</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4645</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5638516113575</id>
+    <published>2020-08-14T14:29:44-07:00</published>
+    <updated>2020-08-14T14:29:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/purrfect-plants-jigsaw-puzzle"/>
+    <title>Purrfect Plants 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4675-Purrfect-Plants-Mockup-1200px.jpg?v=1611327306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><em><strong></strong></em></span><span style="font-weight: 400;">Allison Cole is a Rhode Island-based illustrator and artist with an expansive catalog of thoughtful, witty designs. This puzzle is inspired by her many passions, including house plants, cozy spaces, and depending on how you feel about it, an alarming number of cats.</span></p>
+<p><span style="font-weight: 400;">Puzzle Specs:</span></p>
+<ul>
+<li><span style="font-weight: 400;">16.5” x 22.5” Puzzle.</span></li>
+<li><span style="font-weight: 400;">500 Pieces.</span></li>
+<li><span style="font-weight: 400;">Standard ribbon cut pieces.</span></li>
+<li><span style="font-weight: 400;">Made from 100% recycled gray board.</span></li>
+<li><span style="font-weight: 400;">Printed with vegetable-based inks.</span></li>
+<li><span style="font-weight: 400;">Compact box design to reduce packaging<meta charset="utf-8">
+<span data-mce-fragment="1">: 6.75 x 9.25 x 2"</span></span></li>
+</ul>
+<p><span style="font-weight: 400;">Badge Bomb is a member of 1% For The Planet!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5638516113575</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4675</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5638516080807</id>
+    <published>2020-08-14T14:29:42-07:00</published>
+    <updated>2020-08-14T14:29:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/cattitude-jigsaw-puzzle"/>
+    <title>Cattitude 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4679-CattitudePuzzle-SalesImage-1200px.jpg?v=1611327244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff8000;"><em><strong></strong></em></span><span style="font-weight: 400;">This puzzle is based on Gemma Correll's original Cattitude designs. Includes a poster of the puzzle design.</span></p>
+<ul>
+<li><span style="font-weight: 400;">16.5” x 22.5” Puzzle.</span></li>
+<li><span style="font-weight: 400;">500 Pieces.</span></li>
+<li><span style="font-weight: 400;">Random ribbon cut pieces.</span></li>
+<li><span style="font-weight: 400;">Made from 100% recycled gray board.</span></li>
+<li><span style="font-weight: 400;">Printed with vegetable-based inks.</span></li>
+<li><span style="font-weight: 400;">Compact box design to reduce packaging<meta charset="utf-8">
+<span data-mce-fragment="1">: 6.75 x 9.25 x 2"</span></span></li>
+</ul>
+<p><span style="font-weight: 400;">Badge Bomb is a member of 1% For The Planet!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5638516080807</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4679</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+</feed>

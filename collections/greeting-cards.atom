@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/greeting-cards.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2021-02-12T01:00:09-08:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/6233063719079</id>
+    <published>2021-02-12T01:00:09-08:00</published>
+    <updated>2021-02-12T01:00:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-purrfect-birthday"/>
+    <title>Allison Cole Illustration - Purrfect Birthday</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4769-AllisonCole-PurrfectBirthdayA2CARD-1200px.jpg?v=1611600570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="box-sizing: border-box; margin-bottom: 8px; color: #535456; font-family: Lato, HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">Purrfect Birthday Cards. Blank Inside</div><ul style="box-sizing: border-box; margin: 0px 0px 16px 20px; padding: 0px; list-style-position: outside; list-style-image: initial; color: #535456; font-family: Lato, HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">4.25" x 5.5" A2 size greeting card</li>
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">Printed with soy ink in the USA</li>
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">FSC certified 100% post-consumer recycled paper</li>
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6233063719079</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>4769</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/785837293658</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/parent-survival-kit-a2-card"/>
+    <title>Parent Survival Kit A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3972-AllisonCole-A2CARD-1200px.jpg?v=1541536287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/785837293658</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3972</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/744045150298</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/mom-thanks-trophy"/>
+    <title>Mom Thanks Trophy A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3989-AllisonCole-A2CARD-1200px_0e6a9a46-bfab-4a24-baa4-c06f31b6b322.jpg?v=1522950335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/744045150298</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>3989</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/744044888154</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/mom-nothing-without-you"/>
+    <title>Mom Nothing Without You A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3988-AllisonCole-A2CARD-1200px_1f0379fb-2f5d-4770-a337-029dca16618a.jpg?v=1522950333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/744044888154</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3988</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/744044494938</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/hello-little-one"/>
+    <title>Hello Little One A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3987-AllisonCole-A2CARD-1200px_dbf29fb6-b8be-4f7d-bc03-132a1885c3b4.jpg?v=1522950331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/744044494938</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3987</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/744044363866</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/ahoy"/>
+    <title>Ahoy A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3958-AllisonCole-A2CARD-1200px_46d56262-907b-4253-af74-fb911feaca80.jpg?v=1522950330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Everyday</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/744044363866</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3958</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/744044200026</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/anchor"/>
+    <title>Anchor A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3959-AllisonCole-A2CARD-1200px.jpg?v=1522950329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Everyday</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/744044200026</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>3959</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381858873373</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/hello-kiddo-card"/>
+    <title>Hello Kiddo A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3985-AllisonCole-A2CARD-1200px.jpg?v=1515795769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381858873373</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3985</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381858840605</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/thanks-a-bunch-flowers-card"/>
+    <title>Thanks A Bunch Flowers A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3984-AllisonCole-A2CARD-1200px.jpg?v=1515795768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381858840605</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>3984</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381858807837</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/thanks-text-card"/>
+    <title>Thanks Text A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3983-AllisonCole-A2CARD-1200px.jpg?v=1515795766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381858807837</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3983</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381858742301</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/thanks-speech-bubble-card"/>
+    <title>Thanks Speech Bubble A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3981-AllisonCole-A2CARD-1200px.jpg?v=1515795762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381858742301</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3981</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381858709533</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/you-are-on-my-mind-card"/>
+    <title>You Are On My Mind A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3980-AllisonCole-A2CARD-1200px.jpg?v=1515795761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381858709533</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>3980</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381858676765</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/free-bear-hug-card"/>
+    <title>Free Bear Hug A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3979-AllisonCole-A2CARD-1200px.jpg?v=1515795760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adulting</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381858676765</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3979</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381858643997</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/hello-pattern-card"/>
+    <title>Hello Pattern A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3978-AllisonCole-A2CARD-1200px.jpg?v=1515795759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381858643997</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3978</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381858611229</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/holiday-floral-bouqet-card"/>
+    <title>Holiday Floral Bouquet A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3977-AllisonCole-A2CARD-1200px.jpg?v=1515795757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381858611229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3977</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381858545693</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/perfect-pair-glasses-card"/>
+    <title>Perfect Pair Glasses A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3976-AllisonCole-A2CARD-1200px.jpg?v=1515795754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381858545693</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3976</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381858512925</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/tie-the-knot-card"/>
+    <title>Tie the Knot A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3975-AllisonCole-A2CARD-1200px.jpg?v=1515795753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381858512925</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3975</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381858480157</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/you-are-rad-ass-card"/>
+    <title>You Are Rad Ass A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3973-AllisonCole-A2CARD-1200px.jpg?v=1515795751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adulting</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>retro</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381858480157</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3973</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381858414621</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/damn-cute-baby-card"/>
+    <title>Damn Cute Baby A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3971-AllisonCole-A2CARD-1200px.jpg?v=1515795750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381858414621</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>3971</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381858086941</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/yay-card"/>
+    <title>Yay</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3957-AllisonCole-A2CARD-1200px.jpg?v=1515795740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside.</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Everyday</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381858086941</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3957</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381857955869</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/thinking-of-you-letter-card"/>
+    <title>Thinking of You Letter</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3924-AllisonCole-A2CARD-1200px.jpg?v=1515795734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside.</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>coffee &amp; such</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Sympathy/Sorry</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381857955869</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>3924</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381857857565</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/whoot-you-did-it-grad-card"/>
+    <title>Whoot! You Did It Grad!</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3918-AllisonCole-A2CARD-1200px.jpg?v=1515795730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside.</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Graduation</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381857857565</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3918</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381857824797</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/yay-wedding-day-card"/>
+    <title>Yay Wedding Day</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3915-AllisonCole-A2CARD-1200px.jpg?v=1515795729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside.</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with silver foil</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381857824797</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>3915</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381857726493</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/thumbs-up-card"/>
+    <title>Thumbs Up A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3895-AllisonCole-A2CARD-1200px.jpg?v=1515795726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Congratulations</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381857726493</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3895</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381857660957</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/terrarium-card"/>
+    <title>Terrarium A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3894-AllisonCole-A2CARD-1200px.jpg?v=1515795724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Everyday</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381857660957</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3894</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+</feed>

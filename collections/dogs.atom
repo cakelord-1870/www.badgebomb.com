@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/dogs.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2021-06-22T17:00:00-07:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/6858548576423</id>
+    <published>2021-06-22T17:00:00-07:00</published>
+    <updated>2021-06-22T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-inactive-wear-patch"/>
+    <title>Inactive Wear Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4426.jpg?v=1624473033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inactive Wear Patch by Gemma Correll.</p><ul style="color: #212b36; font-family: -apple-system, system-ui, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"><li>Packaged in our new plastic free 4" x 5" hang card with UPC.</li></ul><p>All Badge Bomb purchases support 1% For The Planet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6858548576423</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4426</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687418351783</id>
+    <published>2021-06-16T01:00:15-07:00</published>
+    <updated>2021-06-16T01:00:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-pug-socks"/>
+    <title>Pug Socks by Gemma Correll</title>
+    <s:type>Socks</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4819-PugSocks-Square-WEB.jpg?v=1620325435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pug Socks by Gemma Correll.</p><ul>
+<li>Unisex.</li>
+<li>One size fits most.</li>
+<li>Cotton blend socks.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687418351783</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4819</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/3877211975</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/kiss-me-im-irish-big-magnet"/>
+    <title>Kiss Me I&apos;m Irish Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3122-GemmaCorrell-MAGNET-1200px.jpg?v=1516040572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/kiss-me-im-irish-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kiss Me I'm Irish Big Magnet by Gemma Correll</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3877211975</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3122</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3877211975</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3122 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/3877185351</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/good-bad-pugly-big-magnet"/>
+    <title>Good Bad Pugly Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3120-GemmaCorrell-MAGNET-1200px.jpg?v=1516040543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/good-bad-pugly-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Good Bad Pugly Big Magnet by Gemma Correll</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3877185351</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3120</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3877185351</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3120 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/155253171</id>
+    <published>2021-03-03T16:00:00-08:00</published>
+    <updated>2021-03-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/david-bow-wow-wowie-big-magnet-1"/>
+    <title>David Bow-wow-wowie Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2280-GemmaCorrell-MAGNET-1200px.jpg?v=1516040338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/david-bow-wow-wowie-big-magnet-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> David Bow-wow-wowie Big Magnet by Gemma Correll</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Dogs</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/155253171</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2280</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/155253171</id>
+      <title>Packaged 2.25&quot; Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2280 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/155249693</id>
+    <published>2021-02-11T01:00:08-08:00</published>
+    <updated>2021-02-11T01:00:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/viva-las-vegas-pug-big-magnet"/>
+    <title>Viva Las Vegas Pug Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2276-GemmaCorrell-MAGNET-1200px.jpg?v=1516040490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/viva-las-vegas-pug-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Viva Las Vegas Pug Big Magnet by Gemma Correll</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Dogs</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:tag>Las Vegas</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/155249693</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2276</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/155249693</id>
+      <title>Packaged 2.25&quot; Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2276 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/372444949</id>
+    <published>2021-02-09T16:00:00-08:00</published>
+    <updated>2021-02-09T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/true-love-big-magnet"/>
+    <title>True Love Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2707-GemmaCorrell-MAGNET-1200px.jpg?v=1541547101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/true-love-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>True Love Big Magnet by Gemma Correll</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/372444949</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2707</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/372444949</id>
+      <title>Packaged 2.25&quot; Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2707 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/116192216</id>
+    <published>2021-02-09T16:00:00-08:00</published>
+    <updated>2021-02-09T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/bonjour-bulldog-big-magnet"/>
+    <title>Bonjour Bulldog Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2041-GemmaCorrell-MAGNET-1200px.jpg?v=1515535507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/bonjour-bulldog-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bonjour Bulldog Big Magnet by Gemma Correll. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Dogs</s:tag>
+    <s:tag>Gemma Correll</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/116192216</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2041</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/116192216</id>
+      <title>Packaged 2.25&quot; Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2041 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/116179594</id>
+    <published>2021-02-09T16:00:00-08:00</published>
+    <updated>2021-02-09T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/boston-tea-party-magnet"/>
+    <title>Boston Tea Party Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2040-GemmaCorrell-MAGNET-1200px.jpg?v=1515535621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/boston-tea-party-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Boston Tea Party Magnet by Gemma Correll. USA Made and available wholesale from Badge Bomb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Dogs</s:tag>
+    <s:tag>Gemma Correll</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/116179594</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2040</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/116179594</id>
+      <title>Packaged 2.25&quot; Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2040 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6164608385191</id>
+    <published>2021-01-08T15:47:39-08:00</published>
+    <updated>2021-01-08T15:47:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-white-house-dogs-rectangle-magnet"/>
+    <title>White House Dogs Rectangle Magnet</title>
+    <s:type>2.5x3.5 Rectangular Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4740.jpg?v=1620322032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.5x3.5 Rectangular Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White House Dogs Rectangle Magnet by Gemma Correll.</p><ul>
+<li>2.5" x 3.5"</li>
+<li>USA Made with recycled paper &amp; steel</li>
+<li>Hand-pressed by Badge Bomb</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6164608385191</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4740</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167420764327</id>
+    <published>2021-01-08T01:00:10-08:00</published>
+    <updated>2021-01-08T01:00:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/all-state-dog-petting-champion-sticker"/>
+    <title>All State Dog Petting Champion Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4725-STICKER-Dog-Petting-Champion-1200px.jpg?v=1609370596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All State Dog Petting Champion Sticker by Gemma Correll<span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">. </span></p><ul>
+<li>Waterproof, sun-proof, long-lasting</li>
+<li>2 3/4 x 3 3/8"</li>
+<li>Sold loose in 12s</li>
+<li>Made in USA</li>
+</ul><p>Badge Bomb is a member of 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167420764327</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4725</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6164609433767</id>
+    <published>2021-01-01T01:00:21-08:00</published>
+    <updated>2021-01-01T01:00:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-we-can-do-it-rectangle-magnet"/>
+    <title>We Can Do It Rectangle Magnet</title>
+    <s:type>2.5x3.5 Rectangular Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4777.jpg?v=1620322129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.5x3.5 Rectangular Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We Can Do It Rectangle Magnet by Gemma Correll.</p><ul>
+<li>2.5" x 3.5"</li>
+<li>USA made with recycled paper &amp; steel</li>
+<li>Hand-pressed by Badge Bomb</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dogs</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6164609433767</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4777</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6107567816871</id>
+    <published>2020-12-06T16:00:00-08:00</published>
+    <updated>2020-12-06T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-bah-humpug-magnet"/>
+    <title>Gemma Correll - Bah Humpug Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4736-bahhumpug-1200px.jpg?v=1607354356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bah Humpug Magnet by Gemma Correll.</p><ul>
+<li>USA Made with recycled materials.</li>
+<li>2.25" Round</li>
+<li>Super strong flat back magnet.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Holiday</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6107567816871</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4736</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5638516506791</id>
+    <published>2020-08-14T14:30:02-07:00</published>
+    <updated>2020-08-14T14:30:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/all-dogs-are-good-dogs-jigsaw-puzzle"/>
+    <title>All Dogs Are Good Dogs 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4644-AllDogs-Puzzle-SalesImage-1200px.jpg?v=1611327160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff8000;"><em><strong></strong></em></span><span style="font-weight: 400;">Gemma Correll is a writer, artist, and cartoonist. Originally from England, she currently resides in Orange, California with her trusty pug sidekicks, Mr Pickles &amp; Zander.</span></p>
+<ul>
+<li><span style="font-weight: 400;">16.5” x 22.5” Puzzle.</span></li>
+<li><span style="font-weight: 400;">500 Pieces.</span></li>
+<li><span style="font-weight: 400;">Made from 100% recycled gray board.</span></li>
+<li><span style="font-weight: 400;">Printed with vegetable-based inks.</span></li>
+<li><span style="font-weight: 400;">Compact box design to reduce packaging.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5638516506791</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4644</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5585305174183</id>
+    <published>2020-08-02T17:00:00-07:00</published>
+    <updated>2020-08-02T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pugs-not-drugs-sticker"/>
+    <title>Pugs Not Drugs Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4683-GemmaCorrell-PugsNotDrugs.jpg?v=1596477571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pugs Not Drugs by Gemma Correll<span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">. </span></p><ul>
+<li>Waterproof, sun-proof, long-lasting</li>
+<li>3" square</li>
+<li>Sold loose in 12s</li>
+<li>Made in USA</li>
+</ul><p>Badge Bomb is a member of 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5585305174183</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4683</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5585277124775</id>
+    <published>2020-08-02T17:00:00-07:00</published>
+    <updated>2020-08-02T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/all-dogs-are-good-dogs-sticker"/>
+    <title>All Dogs Are Good Dogs Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4682-GemmaCorrell-AllDogs.jpg?v=1596476791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Dogs Are Good Dogs Sticker by Gemma Correll<span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">. </span></p><ul>
+<li>Waterproof, sun-proof, long-lasting</li>
+<li>3" square</li>
+<li>Sold loose in 12s</li>
+<li>Made in USA</li>
+</ul><p>Badge Bomb is a member of 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5585277124775</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4682</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4496320692314</id>
+    <published>2020-01-02T12:13:11-08:00</published>
+    <updated>2020-01-02T12:13:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/best-in-show-big-magnets-bundle"/>
+    <title>Best in Show Big Magnets Bundle</title>
+    <s:type>Magnet Bundle</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/MB4574-BestinShow-Magnets-2020-1200px-2.jpg?v=1578080980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Magnet Bundle<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These dogs are all winners in our hearts! These magnets are perfect reminders of all the good dogs out there. 60 magnets, 8 designs, 2.25".</p>
+<p>See all dog products <a href="/dogs" title="Badge Bomb Dogs Buttons Magnets Pins Patches Stickers Cards">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>locker page</s:tag>
+    <s:tag>Magnet Bundle</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4496320692314</id>
+      <title>60 piece assortment</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>MB4574</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492926386266</id>
+    <published>2020-01-01T01:00:16-08:00</published>
+    <updated>2020-01-01T01:00:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-all-dogs-are-good-dogs"/>
+    <title>All Dogs Are Good Dogs Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4462-AllDogs-MAGNET-Web.jpg?v=1577817497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Dogs Are Good Dogs Magnet by Gemma Correll.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492926386266</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4563</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492920520794</id>
+    <published>2020-01-01T01:00:13-08:00</published>
+    <updated>2020-01-01T01:00:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/best-in-show-sticker-sheets"/>
+    <title>Best In Show Stickers</title>
+    <s:type>Sticker Sheets</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4416_BestInShow_StickersSheet.png?v=1577981352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker Sheets<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Best In Show Sticker Sheets by Gemma Correll. 3 sheets per pack! Paper stickers perfect for decorating paper letters &amp; more.</p><p>See more dog designs <a title="Badge Bomb Dogs Best in Show Buttons Magnets Stickers" href="../../../../../dogs">here</a>!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492920520794</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>4416</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492915998810</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pride-pug-enamel-pin"/>
+    <title>Pride Pug Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4339-PridePug-Pin-1600px.jpg?v=1577810785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pride Pug Enamel Pin by Gemma Correll.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492915998810</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4539</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492904300634</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/who-rescued-who-sticker"/>
+    <title>Who Rescued Who? Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4533-STICKER-Who-Rescued-Who-900px.jpg?v=1578375336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Who Rescued Who? Sticker by Gemma Correll<span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">. </span></p><ul>
+<li>Waterproof, sun-proof, long-lasting</li>
+<li>3" round</li>
+<li>Sold loose in 12s</li>
+<li>Made in USA</li>
+</ul><p>Badge Bomb is a member of 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492904300634</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4533</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492904202330</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/we-met-on-the-internet-sticker"/>
+    <title>We Met On The Internet Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4532-STICKER-We-Met-On-The-Internet-900px.jpg?v=1578375318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We Met On The Internet Sticker by Gemma Correll. Waterproof, sun-proof, long-lasting big sticker. </p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul><p>See more designs like this <a title="Badge Bomb Buttons Magnets Patches Pins Stickers Cats Dogs" href="../../../../../cats">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dogs</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492904202330</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4532</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492901318746</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/we-can-do-it-pug-sticker"/>
+    <title>We Can Do It Pug Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4531-STICKER-We-Can-Do-It-Pug-900px.jpg?v=1578375302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We Can Do It Pug Sticker by Gemma Correll<span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">. </span></p><ul>
+<li>Waterproof, sun-proof, long-lasting</li>
+<li>2.25 x3"</li>
+<li>Sold loose in 12s</li>
+<li>Made in USA</li>
+</ul><p>Badge Bomb is a member of 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adulting</s:tag>
+    <s:tag>Dogs</s:tag>
+    <s:tag>Feminist</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492901318746</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4531</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492901023834</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/stay-golden-sticker"/>
+    <title>Stay Golden Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4529-STICKER-Stay-Golden-900px.jpg?v=1578375270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stay Golden Sticker by Gemma Correll. Waterproof, sun-proof, long-lasting big sticker singles. <meta charset="utf-8"></p>
+<ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul>
+<p>See more designs like this <a title="Badge Bomb Buttons Magnets Patches Pins Stickers Dogs Gemma Correll" href="../../../../../dogs">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492901023834</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4529</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492900958298</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/snug-as-a-pug-sticker"/>
+    <title>Snug As A Pug Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4527-STICKER-Snug-As-a-Pug-900px.jpg?v=1578375234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Snug As A Pug Sticker by Gemma Correll. Waterproof, sun-proof, long-lasting big sticker.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul><p>See more designs like this <a title="Badge Bomb Dogs Pugs Pins Patches Buttons Magnets Stickers" href="../../../../../dogs">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492900958298</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4527</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+</feed>

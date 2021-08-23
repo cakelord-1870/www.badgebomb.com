@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/eco.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2021-06-09T07:55:46-07:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/6809000804519</id>
+    <published>2021-06-09T07:55:46-07:00</published>
+    <updated>2021-06-09T07:55:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/grow-your-own-500-piece-puzzle"/>
+    <title>Grow Your Own 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4799-GrowYourOwn-Puzzle-SalesImage-1200px.jpg?v=1623766463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grow Your Own 500 Piece Puzzle. Includes a printed poster of the puzzle art.</p><p>Puzzle Specs:</p><ul>
+<li>18” x 24” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Ribbon cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 11.75 x 8 x 2".</li>
+</ul><p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6809000804519</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4799</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687439847591</id>
+    <published>2021-06-01T01:00:16-07:00</published>
+    <updated>2021-06-01T01:00:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/queen-bee-enamel-pin"/>
+    <title>Queen Bee Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4805-QueenBee-800x800.jpg?v=1622656752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Queen Bee Enamel Pin by Badge Bomb.</p><ul>
+<li>Hand-illustrated enamel pin</li>
+<li>Butterfly clasp for durability</li>
+<li>Brass core with satin and enamel finishes.</li>
+<li>Packaged on backer card in hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687439847591</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4805</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/200036573</id>
+    <published>2021-05-06T17:00:00-07:00</published>
+    <updated>2021-05-06T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/lifes-a-garden-button-box"/>
+    <title>Life&apos;s A Garden Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Seltzer Goods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/LifesaGarden_whiteout.jpg?v=1469125932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seltzer Goods<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get your hands dirty with the environmentally themed Life's A Garden Button box from <a href="../../../../../collections/Seltzer-Goods">Seltzer Goods</a>.  <span style="font-weight: 400;">Box of 200 assorted 1 inch buttons. </span>USA Made in Portland, OR by Badge Bomb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/200036573</id>
+      <title>1&quot; Buttons / 200 Piece Button Box</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>BB2310</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/3876369159</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/garden-big-magnet"/>
+    <title>Garden Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Rebecca Jones</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2MRJ-3080.jpg?v=1541545842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rebecca Jones<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            0.95 - 1.20
+            <a href="https://www.badgebomb.com/products/garden-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Garden Big Magnet by Rebecca Jones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3876369159</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>3080</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3876369159</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">1.20</s:price>
+      <s:sku>3080 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/387073993</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/i-heart-my-garden-big-magnet"/>
+    <title>I Heart My Garden Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Kate Sutton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2MKS-2770.jpg?v=1418674010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kate Sutton<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Heart My Garden Big Magnet by Kate Sutton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/387073993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>2770</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/9629298759</id>
+    <published>2021-02-09T16:00:00-08:00</published>
+    <updated>2021-02-09T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/green-bike-big-magnet-1"/>
+    <title>Green Bike Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Badge Bomb Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2120-BadgeBomb-MAGNET-1200px_01d5b485-37b3-4543-92ca-126bd521e961.jpg?v=1541545921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb Original<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/green-bike-big-magnet-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green Bike Magnet by Badge Bomb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/9629298759</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2120</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/9629298759</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2120 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381857333277</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/i-heart-junk-food-and-you-card"/>
+    <title>I Heart Junk Food and You A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3706-AllisonCole-A2CARD-1200px.jpg?v=1515795712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381857333277</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3706</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/351172427805</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/happy-birthday-fruits"/>
+    <title>Happy Birthday Fruits A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3937-AllisonCole-A2CARD-1200px.jpg?v=1515795787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Birthday</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/351172427805</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3937</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/10165120583</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/peachy-peach-a2-card"/>
+    <title>Peachy Peach A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Chris Uphues</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3533-Card-Peachy.jpg?v=1541546659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chris Uphues<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank inside.</div><ul>
+<li>4.25" x 5.5" A2 size greeting card </li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/10165120583</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>3533</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/10165120007</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/sweet-strawberry-a2-card"/>
+    <title>Sweet Strawberry A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Chris Uphues</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3532-Card-Sweet.jpg?v=1541547040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chris Uphues<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank inside.</div><ul>
+<li>4.25" x 5.5" A2 size greeting card </li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/10165120007</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3532</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6221764526247</id>
+    <published>2021-01-19T16:00:00-08:00</published>
+    <updated>2021-01-19T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/bird-school-500-piece-puzzle"/>
+    <title>Bird School 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4713-BirdSchool-Mockup-1200px.jpg?v=1611173799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bird School 500 Piece Puzzle. From a pigeon to a wren to a black-capped chickadee, there's a bird for everyone in this puzzle.</p>
+<p>Puzzle Specs:</p>
+<ul style="color: #212b36; font-family: -apple-system, system-ui, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">
+<li>16.5” x 22.5” Puzzle.</li>
+<li>500 Pieces.</li>
+<li>Random ribbon cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Compact box design to reduce packaging: 6.75 x 9.25 x 2"</li>
+</ul>
+<p>Badge Bomb is a member of 1% For the Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animals</s:tag>
+    <s:tag>Camping</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6221764526247</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4713</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/10165118919</id>
+    <published>2021-01-06T16:00:00-08:00</published>
+    <updated>2021-01-06T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pizza-cake-a2-card"/>
+    <title>Pizza Cake A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Alex Despain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3523-Card-PizzaCake.jpg?v=1541546678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alex Despain<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Inside Message: You Did It! </div><ul>
+<li>4.25" x 5.5" A2 size greeting card </li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul><p><img src="//cdn.shopify.com/s/files/1/0203/0046/files/Oregon-Artist_medium.gif?v=1529684723" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adulting</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/10165118919</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>3523</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5638516408487</id>
+    <published>2020-08-14T14:30:00-07:00</published>
+    <updated>2020-08-14T14:30:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pollinator-playground-jigsaw-puzzle"/>
+    <title>Pollinator Playground 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Badge Bomb Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4634-PollinatorPlayGround-Puzzle-SalesImage-1200px.jpg?v=1611327287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb Shop<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff8000;"><em><strong></strong></em></span><span style="font-weight: 400;">The second illustration in our Imaginary Journey puzzle series by Kate Sutton, a UK-based artist who finds inspiration from her journeys in nature. This illustration pays homage to the bees, butterflies, hummingbirds, and other pollinators in the fields of Mount Hood, a volcanic wonder near Badge Bomb’s home town of Portland, OR.</span></p>
+<p><span style="font-weight: 400;">Puzzle Specs:</span></p>
+<ul>
+<li><span style="font-weight: 400;">16.5” x 22.5” Puzzle.</span></li>
+<li><span style="font-weight: 400;">500 Pieces.</span></li>
+<li><span style="font-weight: 400;">Standard ribbon cut pieces.</span></li>
+<li><span style="font-weight: 400;">Made from 100% recycled gray board.</span></li>
+<li><span style="font-weight: 400;">Printed with vegetable-based inks.</span></li>
+<li><span style="font-weight: 400;">Compact box design to reduce packaging<meta charset="utf-8">
+<span data-mce-fragment="1">: 6.75 x 9.25 x 2"</span></span></li>
+</ul>
+<p><span style="font-weight: 400;">Badge Bomb is a member of 1% For The Planet!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5638516408487</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4634</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5638516113575</id>
+    <published>2020-08-14T14:29:44-07:00</published>
+    <updated>2020-08-14T14:29:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/purrfect-plants-jigsaw-puzzle"/>
+    <title>Purrfect Plants 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4675-Purrfect-Plants-Mockup-1200px.jpg?v=1611327306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><em><strong></strong></em></span><span style="font-weight: 400;">Allison Cole is a Rhode Island-based illustrator and artist with an expansive catalog of thoughtful, witty designs. This puzzle is inspired by her many passions, including house plants, cozy spaces, and depending on how you feel about it, an alarming number of cats.</span></p>
+<p><span style="font-weight: 400;">Puzzle Specs:</span></p>
+<ul>
+<li><span style="font-weight: 400;">16.5” x 22.5” Puzzle.</span></li>
+<li><span style="font-weight: 400;">500 Pieces.</span></li>
+<li><span style="font-weight: 400;">Standard ribbon cut pieces.</span></li>
+<li><span style="font-weight: 400;">Made from 100% recycled gray board.</span></li>
+<li><span style="font-weight: 400;">Printed with vegetable-based inks.</span></li>
+<li><span style="font-weight: 400;">Compact box design to reduce packaging<meta charset="utf-8">
+<span data-mce-fragment="1">: 6.75 x 9.25 x 2"</span></span></li>
+</ul>
+<p><span style="font-weight: 400;">Badge Bomb is a member of 1% For The Planet!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5638516113575</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4675</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381858054173</id>
+    <published>2020-02-18T16:00:00-08:00</published>
+    <updated>2020-02-18T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/sugar-coated-birthday-card"/>
+    <title>Sugar Coated Birthday</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3956-AllisonCole-A2CARD-1200px.jpg?v=1515795737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside.</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Birthday</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381858054173</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>3956</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492916326490</id>
+    <published>2020-01-01T01:00:40-08:00</published>
+    <updated>2020-01-01T01:00:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pesticides-bug-me-bee-enamel-pin"/>
+    <title>Pesticides Bug Me Bee Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4570-_Bee_Pesticides_PIN_MOCKUP.jpg?v=1577810794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pesticides Bug Me Bee Enamel Pin by Badge Bomb.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492916326490</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4570</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492904661082</id>
+    <published>2020-01-01T01:00:34-08:00</published>
+    <updated>2020-01-01T01:00:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/bee-big-sticker"/>
+    <title>Bee Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Miranda Dressler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4578-STICKER-Love-Bee-900px.jpg?v=1578375445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Miranda Dressler<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bee Big Sticker by Badge Bomb. Waterproof, sun-proof, long-lasting big sticker. </p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul><p>See more designs like this <a title="Eco" href="../../../../../eco">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camping</s:tag>
+    <s:tag>Eco</s:tag>
+    <s:tag>Love</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492904661082</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4578</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492925829210</id>
+    <published>2020-01-01T01:00:27-08:00</published>
+    <updated>2020-01-01T01:00:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/kate-sutton-science"/>
+    <title>Science Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Kate Sutton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4556-Science-MAGNET-Web.jpg?v=1577816479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kate Sutton<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Science Magnet by Badge Bomb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Eco</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492925829210</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4556</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492925468762</id>
+    <published>2020-01-01T01:00:24-08:00</published>
+    <updated>2020-01-01T01:00:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/kate-sutton-outside"/>
+    <title>Outside Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Kate Sutton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4549-Outside-MAGNET-Web-Only.jpg?v=1581633094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kate Sutton<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Outside Magnet by Badge Bomb.</p>
+<p>See all <a href="/camping">camping</a> here.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big magnet</s:tag>
+    <s:tag>Camping</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492925468762</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4549</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492925435994</id>
+    <published>2020-01-01T01:00:22-08:00</published>
+    <updated>2020-01-01T01:00:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-morel-support"/>
+    <title>Morel Support Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4548-Morel-MAGNET-Web.jpg?v=1577815645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Morel Support Magnet by Gemma Correll. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492925435994</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4548</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492925534298</id>
+    <published>2020-01-01T01:00:18-08:00</published>
+    <updated>2020-01-01T01:00:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/kate-sutton-environmentalist"/>
+    <title>Environmentalist Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Kate Sutton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4550-Environmentalist-MAGNET-Web.jpg?v=1577816103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kate Sutton<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Environmentalist Magnet by Badge Bomb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Camping</s:tag>
+    <s:tag>Eco</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492925534298</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4550</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492961611866</id>
+    <published>2019-12-31T09:30:20-08:00</published>
+    <updated>2019-12-31T09:30:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/respect-big-magnets-bundle"/>
+    <title>Respect Big Magnets Bundle</title>
+    <s:type>Magnet Bundle</s:type>
+    <s:vendor>Badge Bomb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/MB4575-Respect-Magnets-2020-1200px.jpg?v=1577813435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb<br>
+        <strong>Type: </strong>Magnet Bundle<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R-E-S-P-E-C-T! These magnets are perfect little reminders that you can make a change. 60 magnets, 8 designs, 2.25".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>locker page</s:tag>
+    <s:tag>Magnet Bundle</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492961611866</id>
+      <title>60 piece assortment</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>MB4575</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492904759386</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pesticides-bug-me-bee-sticker"/>
+    <title>Pesticides Bug Me Bee Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4580-STICKER-Pesticides-Bug-Me-900px.jpg?v=1578375476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pesticides Bug Me Bee Sticker by Badge Bomb<span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">. </span></p><ul>
+<li>Waterproof, sun-proof, long-lasting</li>
+<li>3" round</li>
+<li>Sold loose in 12s</li>
+<li>Made in USA</li>
+</ul><p>Badge Bomb is a member of 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camping</s:tag>
+    <s:tag>Eco</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492904759386</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4580</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492888342618</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/say-no-to-gmo-2-5-sticker"/>
+    <title>Say No To GMO Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4442-STICKER-Say-No-To-GMO-900px.jpg?v=1578374602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Say No To GMO Big Sticker by Badge Bomb. Waterproof, sun-proof, long-lasting big sticker singles.</p>
+<ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul>
+<p>See more designs like this <a title="Badge Bomb Buttons Magnets Pins Patches Stickers Eco Kate Sutton Nature" href="../../../../../eco">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492888342618</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4442</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492880478298</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/dont-cage-me-bro-3-sticker"/>
+    <title>Don&apos;t Cage Me Bro Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4436-STICKER-Dont-Cage-Me-Bro-900px_5t9bwwj.jpg?v=1578443172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Don't Cage Me Bro Big Sticker by Badge Bomb. Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul><p>See more designs like this <a title="Badge Bomb Buttons Magnets Pins Patches Stickers Eco nature Kate Sutton" href="../../../../../eco">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animals</s:tag>
+    <s:tag>eco</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492880478298</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4436</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+</feed>

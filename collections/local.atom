@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/local.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2021-06-15T17:00:00-07:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/6843452850343</id>
+    <published>2021-06-15T17:00:00-07:00</published>
+    <updated>2021-06-15T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-nyc-street-sign-sticker"/>
+    <title>New York City Street Sign Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4814-NYCSign-800x800.jpg?v=1623877575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New York City Street Sign Sticker by Allison Cole and Badge Bomb. </p><ul>
+<li>Waterproof and sunproof.</li>
+<li>Made in USA</li>
+<li>Sold loose.</li>
+</ul><p>All Badge Bomb purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Local</s:tag>
+    <s:tag>New York</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6843452850343</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4814</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6808866291879</id>
+    <published>2021-06-01T17:00:00-07:00</published>
+    <updated>2021-06-01T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-statue-of-liberty-torch-big-sticker"/>
+    <title>Statue of Liberty Torch Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4813-NYCTorch-800x800.jpg?v=1622657311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Statue of Liberty Torch Big Sticker by Allison Cole &amp; Badge Bomb.</p><p>Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Local</s:tag>
+    <s:tag>New York</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6808866291879</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4813</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687439945895</id>
+    <published>2021-06-01T01:00:16-07:00</published>
+    <updated>2021-06-01T01:00:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-statue-of-liberty-enamel-pin"/>
+    <title>Statue of Liberty Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4811-Torch-800x800.jpg?v=1622656812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Statue of Liberty Torch Enamel Pin by Allison Cole.</p><ul>
+<li>Hand-illustrated enamel pin</li>
+<li>Butterfly clasp for durability</li>
+<li>Packaged on backer card in a hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Local</s:tag>
+    <s:tag>New York</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687439945895</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4811</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687439978663</id>
+    <published>2021-06-01T01:00:15-07:00</published>
+    <updated>2021-06-01T01:00:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-nyc-street-sign-enamel-pin"/>
+    <title>NYC Street Sign Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4812-NYCSign-800x800.jpg?v=1622656829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NYC Street Sign Enamel Pin by Allison Cole.</p><ul>
+<li>Hand-illustrated enamel pin</li>
+<li>Butterfly clasp for durability</li>
+<li>Packaged on backer card in a hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Local</s:tag>
+    <s:tag>New York</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687439978663</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4812</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6092141767</id>
+    <published>2021-05-29T01:00:09-07:00</published>
+    <updated>2021-05-29T01:00:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/my-heart-belongs-to-vermont-big-magnet"/>
+    <title>My Heart Belongs To Vermont Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3283-AllisonCole-MAGNET-1200px_4f338f70-ac35-4fa9-b9cd-d2ebebdef831.jpg?v=1516037000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/my-heart-belongs-to-vermont-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>My Heart Belongs To Vermont Big Magnet by Allison Cole.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Vermont</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6092141767</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3283</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6092141767</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3283 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/3878235655</id>
+    <published>2021-05-26T17:00:00-07:00</published>
+    <updated>2021-05-26T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/ski-colorado-big-magnet"/>
+    <title>Ski Colorado Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Hey Darlin’</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2984-HeyDarlin-MAGNET-1200px.jpg?v=1516043229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin’<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/ski-colorado-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ski Colorado Big Magnet by Hey Darlin'</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Colorado</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3878235655</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2984</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3878235655</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2984 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1247866433</id>
+    <published>2021-05-06T17:00:00-07:00</published>
+    <updated>2021-05-06T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/washington-buttons-button-box"/>
+    <title>Washington Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Hey Darlin&apos;</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/BB2810_WashingtonBox.jpg?v=1483570131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin&#39;<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proudly designed and manufactured in the Pacific Northwest.  USA Made in Portland, OR by Badge Bomb. This box contains 200 Seattle and Washington buttons.</p><p>See more city and state products <a href="https://www.badgebomb.com/collections/local" target="_blank" rel="noopener">here</a>!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Washington</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1247866433</id>
+      <title>1&quot; Buttons / 200 Piece Button Box</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>BB2810</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/10027161351</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/aqua-seattle-washington-mountains-magnet-by-badge-bomb"/>
+    <title>Aqua Seattle Mountains Washington Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Hey Darlin&apos;</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2640-HeyDarlin-MAGNET-1200px.jpg?v=1541545373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin&#39;<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aqua Seattle Washington Mountains Magnet by Hey Darlin'</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Washington</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/10027161351</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>2640</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/9633898055</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/colorado-centennial-state-big-magnet"/>
+    <title>Colorado Centennial State Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Hey Darlin&apos;</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3255-HeyDarlin-MAGNET-1200px.jpg?v=1541545638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin&#39;<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/colorado-centennial-state-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colorado Centennial State Magnet by Hey Darlin'</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Colorado</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/9633898055</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3255</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/9633898055</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3255 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6092039879</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/green-mountain-state-big-magnet"/>
+    <title>Vermont Green Mountain State Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3281-AllisonCole-MAGNET-1200px_36efb1b9-6797-45c0-9a29-b87eae15b49d.jpg?v=1516037043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/green-mountain-state-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vermont Green Mountain State Big Magnet by Allison Cole.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Vermont</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6092039879</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3281</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6092039879</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3281 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6091334215</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/i-heart-vermont-big-magnet"/>
+    <title>I Heart Vermont Flannel Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3279-AllisonCole-MAGNET-1200px_df505fd5-a801-431f-99d9-b53adfc8beca.jpg?v=1541546200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/i-heart-vermont-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Heart Vermont Flannel Big Magnet by Allison Cole.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Vermont</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6091334215</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3279</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6091334215</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3279 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/3878218439</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/snowboard-colorado-big-magnet"/>
+    <title>Snowboard Colorado Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Hey Darlin’</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2983-HeyDarlin-MAGNET-1200px.jpg?v=1516043239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin’<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/snowboard-colorado-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Snowboard Colorado Big Magnet by Hey Darlin'</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Colorado</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3878218439</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2983</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3878218439</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2983 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/3877889159</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/colorado-cruiser-bike-big-magnet"/>
+    <title>Colorado Cruiser Bike Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Hey Darlin&apos;</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2976-HeyDarlin-MAGNET-1200px.jpg?v=1516034395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin&#39;<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/colorado-cruiser-bike-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colorado Cruiser Bike Magnet by Hey Darlin'</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Colorado</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3877889159</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2976</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3877889159</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2976 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/397987269</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/washington-state-seattle-rain-big-magnet"/>
+    <title>Seattle Rain Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Hey Darlin’</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2818-HeyDarlin-MAGNET-1200px.jpg?v=1541546895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin’<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/washington-state-seattle-rain-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Seattle Rain Big Magnet by Hey Darlin'</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Washington</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/397987269</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2818</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/397987269</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2818 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/397987025</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gold-seattle-coffee-big-magnet"/>
+    <title>Gold Seattle Coffee Washington Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Hey Darlin&apos;</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2816-HeyDarlin-MAGNET-1200px.jpg?v=1541545893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin&#39;<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/gold-seattle-coffee-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Seattle Coffee Washington Big Magnet by Hey Darlin'.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Washington</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/397987025</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2816</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/397987025</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2816 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/397986845</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/washington-state-blue-sunburst-big-magnet"/>
+    <title>Washington State Blue Sunburst Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Hey Darlin’</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2641-HeyDarlin-MAGNET-1200px.jpg?v=1541547177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin’<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/washington-state-blue-sunburst-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Washington State- Blue Sunburst Big Magnet by Hey Darlin'</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Washington</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/397986845</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2641</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/397986845</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2641 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1600304087130</id>
+    <published>2021-03-03T16:00:00-08:00</published>
+    <updated>2021-03-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/las-vegas-sign"/>
+    <title>Las Vegas Sign Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Hey Darlin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4302-LasVegasSign-MAGNET.jpg?v=1545416999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/las-vegas-sign">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Las Vegas Sign Big Magnet</p><p>See more city and state products at <a href="http://badgebomb.com/local" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=http://badgebomb.com/local&amp;source=gmail&amp;ust=1546538405834000&amp;usg=AFQjCNGyF5GzR4HSTjBxFHRlT8rcblPwNQ">badgebomb.com/local</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Las Vegas</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1600304087130</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4302</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1600304087130</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>4302 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1600253034586</id>
+    <published>2021-03-03T16:00:00-08:00</published>
+    <updated>2021-03-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/texas-bbq"/>
+    <title>Texas BBQ Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Hey Darlin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4201-TexasBBQpig-MAGNET.jpg?v=1545417123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/texas-bbq">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Texas BBQ Big Magnet</p><p>See more city and state products at <a href="http://badgebomb.com/local" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=http://badgebomb.com/local&amp;source=gmail&amp;ust=1546538405834000&amp;usg=AFQjCNGyF5GzR4HSTjBxFHRlT8rcblPwNQ">badgebomb.com/local</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Texas</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1600253034586</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4201</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1600253034586</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>4201 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1600253001818</id>
+    <published>2021-03-03T16:00:00-08:00</published>
+    <updated>2021-03-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/texas-hat-yellow"/>
+    <title>Texas Hat Yellow Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Hey Darlin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4200-TexasHatYellow-MAGNET.jpg?v=1545417087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/texas-hat-yellow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Texas Hat Yellow Big Magnet</p><p>See more city and state products at <a href="http://badgebomb.com/local" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=http://badgebomb.com/local&amp;source=gmail&amp;ust=1546538405834000&amp;usg=AFQjCNGyF5GzR4HSTjBxFHRlT8rcblPwNQ">badgebomb.com/local</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Texas</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1600253001818</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4200</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1600253001818</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>4200 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1600252969050</id>
+    <published>2021-03-03T16:00:00-08:00</published>
+    <updated>2021-03-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/austin-map-blue"/>
+    <title>Austin Map Blue Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Hey Darlin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4199_AustinMapBlue.jpg?v=1547146372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Austin Map Blue</p><p><span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">See more city and state products at </span><a style="box-sizing: border-box; color: #f1592a; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-decoration-line: none; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;" href="http://badgebomb.com/local" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=http://badgebomb.com/local&amp;source=gmail&amp;ust=1546538405834000&amp;usg=AFQjCNGyF5GzR4HSTjBxFHRlT8rcblPwNQ">badgebomb.com/local</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Texas</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1600252969050</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4199</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/282550249</id>
+    <published>2021-03-03T16:00:00-08:00</published>
+    <updated>2021-03-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/portland-oregon-sign-big-magnet"/>
+    <title>Portland, Oregon Sign Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Badge Bomb Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2306-BadgeBomb-MAGNET-1200px_75649e46-95aa-43ba-89ec-796c815d1bde.jpg?v=1516045215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb Original<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/portland-oregon-sign-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Portland, Oregon Sign Big Magnet by Badge Bomb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Portland</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/282550249</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2306</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/282550249</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2306 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/155249693</id>
+    <published>2021-02-11T01:00:08-08:00</published>
+    <updated>2021-02-11T01:00:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/viva-las-vegas-pug-big-magnet"/>
+    <title>Viva Las Vegas Pug Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2276-GemmaCorrell-MAGNET-1200px.jpg?v=1516040490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/viva-las-vegas-pug-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Viva Las Vegas Pug Big Magnet by Gemma Correll</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Dogs</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:tag>Las Vegas</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/155249693</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2276</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/155249693</id>
+      <title>Packaged 2.25&quot; Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2276 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/3877006919</id>
+    <published>2021-02-09T16:00:00-08:00</published>
+    <updated>2021-02-09T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/i-heart-food-trucks-big-magnet"/>
+    <title>I Heart Food Trucks Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Hey Darlin&apos;</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3110-HeyDarlin-MAGNET-1200px.jpg?v=1516035573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin&#39;<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/i-heart-food-trucks-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Heart Food Trucks Big Magnet by Hey Darlin'</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Portland</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3877006919</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3110</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3877006919</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3110 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/282562805</id>
+    <published>2021-02-09T16:00:00-08:00</published>
+    <updated>2021-02-09T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/green-bike-big-magnet"/>
+    <title>Green Bike Portland Oregon Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Badge Bomb Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/1919-BadgeBomb-MAGNET-1200px_47b5df9d-03a0-405d-8acc-2db900745ddc.jpg?v=1541545923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb Original<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/green-bike-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green Bike Portland Oregon Big Magnet by Badge Bomb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Portland</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/282562805</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>1919</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/282562805</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>1919 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/275236061213</id>
+    <published>2019-12-19T16:00:00-08:00</published>
+    <updated>2019-12-19T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/nyc-taxi-enamel-pin"/>
+    <title>NYC Taxi Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3686-NYCTaxi-Pin-WHITE-1600px.jpg?v=1541546563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New York Yellow Taxi Cab enamel by Allison Cole. 1" soft enamel pin with black metal. </p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New York</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/275236061213</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>3686</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

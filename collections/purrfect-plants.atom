@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/purrfect-plants.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2021-02-12T01:00:09-08:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/6233063719079</id>
+    <published>2021-02-12T01:00:09-08:00</published>
+    <updated>2021-02-12T01:00:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-purrfect-birthday"/>
+    <title>Allison Cole Illustration - Purrfect Birthday</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4769-AllisonCole-PurrfectBirthdayA2CARD-1200px.jpg?v=1611600570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="box-sizing: border-box; margin-bottom: 8px; color: #535456; font-family: Lato, HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">Purrfect Birthday Cards. Blank Inside</div><ul style="box-sizing: border-box; margin: 0px 0px 16px 20px; padding: 0px; list-style-position: outside; list-style-image: initial; color: #535456; font-family: Lato, HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">4.25" x 5.5" A2 size greeting card</li>
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">Printed with soy ink in the USA</li>
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">FSC certified 100% post-consumer recycled paper</li>
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6233063719079</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>4769</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381858611229</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/holiday-floral-bouqet-card"/>
+    <title>Holiday Floral Bouquet A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3977-AllisonCole-A2CARD-1200px.jpg?v=1515795757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381858611229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3977</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381857660957</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/terrarium-card"/>
+    <title>Terrarium A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3894-AllisonCole-A2CARD-1200px.jpg?v=1515795724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Everyday</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381857660957</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3894</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381857497117</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/floral-bouqet-card"/>
+    <title>Floral Bouquet A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3712-AllisonCole-A2CARD-1200px.jpg?v=1515795716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381857497117</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3712</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/351150145565</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/im-sorry-for-being-prickly"/>
+    <title>I&apos;m Sorry for Being Prickly A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3926-AllisonCole-A2CARD-1200px.jpg?v=1515795785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Sympathy/Sorry</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/351150145565</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3926</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/351148507165</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/many-thanks-bouquet"/>
+    <title>Many Thanks Bouquet A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3925-AllisonCole-A2CARD-1200px.jpg?v=1515795784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Thanks</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/351148507165</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3925</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6221764821159</id>
+    <published>2021-01-19T16:00:00-08:00</published>
+    <updated>2021-01-19T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/good-evening-500-piece-puzzle"/>
+    <title>Good Evening 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4714-GoodEveningPuzzle-SalesImage-1200px.jpg?v=1611173803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Good Evening 500 Piece Puzzle by Allison Cole. This quiet cityscape is reminiscent of an evening walk - without having to leave your house.</p>
+<p>Puzzle Specs:</p>
+<ul style="color: #212b36; font-family: -apple-system, system-ui, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">
+<li>16.5” x 22.5” Puzzle.</li>
+<li>500 Pieces.</li>
+<li>Random Ribbon Cut Pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Compact box design to reduce packaging: 6.75 x 9.25 x 2"</li>
+</ul>
+<p>Badge Bomb is a member of 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6221764821159</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4714</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6193494032551</id>
+    <published>2021-01-08T13:57:47-08:00</published>
+    <updated>2021-01-08T13:57:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/purrfect-plants-big-magnets-bundle"/>
+    <title>Purrfect Plants Big Magnets Bundle</title>
+    <s:type>Magnet Bundle</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/MB4768-PurrfectPlants-Magnets-2020-1200px.jpg?v=1610142750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Magnet Bundle<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Purrfect Plants Big Magnet Bundle with designs from <a href="https://www.badgebomb.com/collections/allison-cole" target="_blank">Allison Cole</a>! 60 piece assortment. USA made in Portland by Badge Bomb.</p>
+<p>Don't miss the Purrfect Plants 500-piece puzzle! See all Badge Bomb puzzles <a href="/puzzles" target="_blank" title="Badge Bomb puzzles by artists like Gemma Correll, Allison Cole, Andrea Kang, and more." rel="noopener noreferrer">here</a>.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>locker page</s:tag>
+    <s:tag>Magnet Bundle</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6193494032551</id>
+      <title>60 piece assortment</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>MB4768</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167421321383</id>
+    <published>2021-01-08T01:00:14-08:00</published>
+    <updated>2021-01-08T01:00:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/house-plant-vine-sticker"/>
+    <title>House Plant Vine Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4733-STICKER-House-Plant-1200px.jpg?v=1609370607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>House Plant Vine Sticker by Allison Cole. Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167421321383</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4733</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167449010343</id>
+    <published>2021-01-08T01:00:12-08:00</published>
+    <updated>2021-01-08T01:00:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-black-cat-with-plants"/>
+    <title>Black Cat With Plants Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4759-AllisonCole-Magnet-JungleCatPink-1200px.jpg?v=1609443848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Cat With Plants design by Allison Cole. </p><ul>
+<li>2.25" round.</li>
+<li>Made with recycled paper &amp; steel.</li>
+<li>Super strong flat back for maximum pull strength.</li>
+<li>Hand-pressed in Portland, OR.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167449010343</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4759</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167449043111</id>
+    <published>2021-01-01T01:00:22-08:00</published>
+    <updated>2021-01-01T01:00:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-white-cat-with-plant"/>
+    <title>White Cat With Plant Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4760-AllisonCole-Magnet-WhiteCatPlant-1200px.jpg?v=1609443842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Cat With Plant design by Allison Cole.</p><ul>
+<li>2.25" round.</li>
+<li>Made with recycled paper &amp; steel.</li>
+<li>Super strong flat back for maximum pull strength.</li>
+<li>Hand-pressed in Portland, OR.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167449043111</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4760</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167449305255</id>
+    <published>2021-01-01T01:00:20-08:00</published>
+    <updated>2021-01-01T01:00:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-snake-plant-on-pink"/>
+    <title>Snake Plant on Pink Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4765-AllisonCole-Magnet-SnakePlant-1200px.jpg?v=1609443809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Snake Plant on Pink by Allison Cole.</p><ul>
+<li>2.25" round.</li>
+<li>Made with recycled paper &amp; steel.</li>
+<li>Super strong flat back for maximum pull strength.</li>
+<li>Hand-pressed in Portland, OR.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167449305255</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4765</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167449075879</id>
+    <published>2021-01-01T01:00:18-08:00</published>
+    <updated>2021-01-01T01:00:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-orange-cat-sleeping"/>
+    <title>Orange Cat Sleeping Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4761-AllisonCole-Magnet-OrangeCatNap-1200px.jpg?v=1611186234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Orange Cat Sleeping Magnet by Allison Cole.</p><ul>
+<li>2.25" round.</li>
+<li>Made with recycled paper &amp; steel.</li>
+<li>Super strong flat back for maximum pull strength.</li>
+<li>Hand-pressed in Portland, OR.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167449075879</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4761</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167449206951</id>
+    <published>2021-01-01T01:00:17-08:00</published>
+    <updated>2021-01-01T01:00:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-orange-cat-cactus"/>
+    <title>Orange Cat Cactus Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4762-AllisonCole-Magnet-OrangeCatCactus-1200px.jpg?v=1609443828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Orange Cat Cactus by Allison Cole.</p><ul>
+<li>2.25" round.</li>
+<li>Made with recycled paper &amp; steel.</li>
+<li>Super strong flat back for maximum pull strength.</li>
+<li>Hand-pressed in Portland, OR.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167449206951</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4762</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167449239719</id>
+    <published>2021-01-01T01:00:16-08:00</published>
+    <updated>2021-01-01T01:00:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-monstera-on-teal"/>
+    <title>Monstera on Teal Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4764-AllisonCole-Magnet-MOnsteraGreen-1200px.jpg?v=1609443820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Monstera on Teal Big Magnet by Allison Cole.</p><ul>
+<li>2.25" round.</li>
+<li>Made with recycled paper &amp; steel.</li>
+<li>Super strong flat back for maximum pull strength.</li>
+<li>Hand-pressed in Portland, OR.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167449239719</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4764</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167449403559</id>
+    <published>2021-01-01T01:00:15-08:00</published>
+    <updated>2021-01-01T01:00:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-monstera-on-purple"/>
+    <title>Monstera on Purple Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4767-AllisonCole-Magnet-MonsteraPurple-1200px.jpg?v=1609443793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Monstera on Purple Big Magnet by Allison Cole.</p><ul>
+<li>2.25" round.</li>
+<li>Made with recycled paper &amp; steel.</li>
+<li>Super strong flat back for maximum pull strength.</li>
+<li>Hand-pressed in Portland, OR.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167449403559</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4767</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6164608549031</id>
+    <published>2021-01-01T01:00:12-08:00</published>
+    <updated>2021-01-01T01:00:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-explore-the-great-indoors-rectangle-magnet"/>
+    <title>Explore the Great Indoors Rectangle Magnet</title>
+    <s:type>2.5x3.5 Rectangular Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4741.jpg?v=1620322041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.5x3.5 Rectangular Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the Great Indoors Rectangle Magnet by Gemma Correll.</p><ul>
+<li>2.5" x 3.5"</li>
+<li>USA made with recycled paper &amp; steel</li>
+<li>Hand-pressed by Badge Bomb</li>
+</ul><p>1All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6164608549031</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4741</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167421255847</id>
+    <published>2020-12-29T16:00:00-08:00</published>
+    <updated>2020-12-29T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/jungle-cat-purrfect-plants-sticker"/>
+    <title>Jungle Cat Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4732-STICKER-Jungle-Cat-900px.jpg?v=1609370606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jungle Cat Sticker by Allison Cole. Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul><p>All purchases support 1% For The Planet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167421255847</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4732</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167421190311</id>
+    <published>2020-12-29T16:00:00-08:00</published>
+    <updated>2020-12-29T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/cat-nap-purrfect-plants-sticker"/>
+    <title>Cat Nap Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4731-STICKER-Cat-Nap-Plant-900px.jpg?v=1609370604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cat Nap Sticker by Allison Cole. Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167421190311</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4731</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167420731559</id>
+    <published>2020-12-29T16:00:00-08:00</published>
+    <updated>2020-12-29T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/indoor-cat-sticker"/>
+    <title>Indoor Cat Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4724-STICKER-Indoor-Cat-900px.jpg?v=1609370594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indoor Cat Sticker by Gemma Correll. Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167420731559</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4724</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167420633255</id>
+    <published>2020-12-29T16:00:00-08:00</published>
+    <updated>2020-12-29T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/meh-cat-sticker"/>
+    <title>Meh Cat Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4722-STICKER-Meh-Cat-900px.jpg?v=1609370592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meh Cat Sticker by Gemma Correll. Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cats</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167420633255</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4722</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167420600487</id>
+    <published>2020-12-29T16:00:00-08:00</published>
+    <updated>2020-12-29T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/homebody-sticker"/>
+    <title>Homebody Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4721-STICKER-Homebody-900px.jpg?v=1609370590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Homebody Sticker by Gemma Correll<span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">. </span></p><ul>
+<li>Waterproof, sun-proof, long-lasting</li>
+<li>3 1/8 x 4 1/2"</li>
+<li>Sold loose in 12s</li>
+<li>Made in USA</li>
+</ul><p>Badge Bomb is a member of 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167420600487</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4721</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6053521817767</id>
+    <published>2020-11-16T16:00:00-08:00</published>
+    <updated>2020-11-16T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-language-of-flowers-a2-card"/>
+    <title>Language Of Flowers A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4697-LanguageofFlowers-GemmaCorrell.jpg?v=1605640446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gemma Correll's (Updated) Language Of Flowers A2 Card. Blank Inside.</p><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6053521817767</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>4697</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5638516113575</id>
+    <published>2020-08-14T14:29:44-07:00</published>
+    <updated>2020-08-14T14:29:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/purrfect-plants-jigsaw-puzzle"/>
+    <title>Purrfect Plants 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4675-Purrfect-Plants-Mockup-1200px.jpg?v=1611327306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><em><strong></strong></em></span><span style="font-weight: 400;">Allison Cole is a Rhode Island-based illustrator and artist with an expansive catalog of thoughtful, witty designs. This puzzle is inspired by her many passions, including house plants, cozy spaces, and depending on how you feel about it, an alarming number of cats.</span></p>
+<p><span style="font-weight: 400;">Puzzle Specs:</span></p>
+<ul>
+<li><span style="font-weight: 400;">16.5” x 22.5” Puzzle.</span></li>
+<li><span style="font-weight: 400;">500 Pieces.</span></li>
+<li><span style="font-weight: 400;">Standard ribbon cut pieces.</span></li>
+<li><span style="font-weight: 400;">Made from 100% recycled gray board.</span></li>
+<li><span style="font-weight: 400;">Printed with vegetable-based inks.</span></li>
+<li><span style="font-weight: 400;">Compact box design to reduce packaging<meta charset="utf-8">
+<span data-mce-fragment="1">: 6.75 x 9.25 x 2"</span></span></li>
+</ul>
+<p><span style="font-weight: 400;">Badge Bomb is a member of 1% For The Planet!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5638516113575</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4675</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4399402057818</id>
+    <published>2019-11-23T01:00:22-08:00</published>
+    <updated>2019-11-23T01:00:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/i-wanna-go-where-the-people-arent-meh-maid-sticker"/>
+    <title>I Wanna Be Where The People Aren&apos;t Meh Maid Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4524-STICKER-Meh-Maid-900px.jpg?v=1578375181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Wanna Be Where The People Aren't Meh Maid Big Sticker by Gemma Correll<span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">. </span></p><ul>
+<li>Waterproof, sun-proof, long-lasting</li>
+<li>3" round</li>
+<li>Sold loose in 12s</li>
+<li>Made in USA</li>
+</ul><p>Badge Bomb is a member of 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>camping</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4399402057818</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4524</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+</feed>

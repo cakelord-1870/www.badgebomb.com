@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/enamel-pins.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2021-06-03T01:00:15-07:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687439913127</id>
+    <published>2021-06-03T01:00:15-07:00</published>
+    <updated>2021-06-03T01:00:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/wild-cat-enamel-pin"/>
+    <title>Wild Cat Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4806-WildCat-800x800.jpg?v=1622656780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wild Cat Enamel Pin by Badge Bomb.</p><ul>
+<li>Hand-illustrated enamel pin</li>
+<li>Butterfly clasp for durability</li>
+<li>Brass core with enamel finishes.</li>
+<li>Packaged on backer card in hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cats</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687439913127</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4806</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687439945895</id>
+    <published>2021-06-01T01:00:16-07:00</published>
+    <updated>2021-06-01T01:00:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-statue-of-liberty-enamel-pin"/>
+    <title>Statue of Liberty Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4811-Torch-800x800.jpg?v=1622656812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Statue of Liberty Torch Enamel Pin by Allison Cole.</p><ul>
+<li>Hand-illustrated enamel pin</li>
+<li>Butterfly clasp for durability</li>
+<li>Packaged on backer card in a hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Local</s:tag>
+    <s:tag>New York</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687439945895</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4811</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687439847591</id>
+    <published>2021-06-01T01:00:16-07:00</published>
+    <updated>2021-06-01T01:00:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/queen-bee-enamel-pin"/>
+    <title>Queen Bee Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4805-QueenBee-800x800.jpg?v=1622656752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Queen Bee Enamel Pin by Badge Bomb.</p><ul>
+<li>Hand-illustrated enamel pin</li>
+<li>Butterfly clasp for durability</li>
+<li>Brass core with satin and enamel finishes.</li>
+<li>Packaged on backer card in hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687439847591</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4805</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687439978663</id>
+    <published>2021-06-01T01:00:15-07:00</published>
+    <updated>2021-06-01T01:00:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-nyc-street-sign-enamel-pin"/>
+    <title>NYC Street Sign Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4812-NYCSign-800x800.jpg?v=1622656829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NYC Street Sign Enamel Pin by Allison Cole.</p><ul>
+<li>Hand-illustrated enamel pin</li>
+<li>Butterfly clasp for durability</li>
+<li>Packaged on backer card in a hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Local</s:tag>
+    <s:tag>New York</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687439978663</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4812</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687439782055</id>
+    <published>2021-06-01T01:00:13-07:00</published>
+    <updated>2021-06-01T01:00:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/peace-symbol-enamel-pin-satin-nickel"/>
+    <title>Peace Symbol Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4693-1200x1200.jpg?v=1620326773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Peace Symbol Enamel Pin by Badge Bomb.</p><ul>
+<li>Satin nickel finish</li>
+<li>Butterfly clasp for durability</li>
+<li>Packaged on backer card in hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687439782055</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4693</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5731836039</id>
+    <published>2021-02-02T16:00:00-08:00</published>
+    <updated>2021-02-02T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/feather-enamel-pin"/>
+    <title>Feather Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3264-Feather-Pin-WHITE-1500px.jpg?v=1541545786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feather Soft Enamel Pin by Allison Cole.</p><ul>
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5731836039</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>3264</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6012117844135</id>
+    <published>2020-11-05T01:00:12-08:00</published>
+    <updated>2020-11-05T01:00:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/permanently-exhausted-pigeon-enamel-pin"/>
+    <title>Permanently Exhausted Pigeon Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4692-exhaustedpigeon-1200x1200.jpg?v=1620850754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Permanently Exhausted Pigeon Enamel Pin. Original Design by Gemma Correll for Badge Bomb.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated 1" enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6012117844135</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4692</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6012116762791</id>
+    <published>2020-11-05T01:00:12-08:00</published>
+    <updated>2020-11-05T01:00:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/puzzle-piece-enamel-pin"/>
+    <title>Puzzle Piece Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4694-PuzzlePiece-1200x1200_027e5322-c05c-4880-82fe-29ce24134594.jpg?v=1620850672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Puzzle Piece Enamel Pin. Original Design by Badge Bomb.</p><ul>
+<li>Hand-illustrated 1.25" enamel pin</li>
+<li>Butterfly clasp for durability</li>
+<li>Brass core with satin nickel finish.</li>
+<li>Packaged on backer card in hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6012116762791</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4694</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6012117942439</id>
+    <published>2020-11-05T01:00:11-08:00</published>
+    <updated>2020-11-05T01:00:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/all-state-cat-petting-champion-enamel-pin"/>
+    <title>All State Cat Petting Champion Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4691-CatPettingChampion.jpg?v=1604519911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All State Cat Petting Champion Enamel Pin by Gemma Correll.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6012117942439</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4691</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492916326490</id>
+    <published>2020-01-01T01:00:40-08:00</published>
+    <updated>2020-01-01T01:00:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pesticides-bug-me-bee-enamel-pin"/>
+    <title>Pesticides Bug Me Bee Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4570-_Bee_Pesticides_PIN_MOCKUP.jpg?v=1577810794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pesticides Bug Me Bee Enamel Pin by Badge Bomb.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492916326490</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4570</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492916293722</id>
+    <published>2020-01-01T01:00:40-08:00</published>
+    <updated>2020-01-01T01:00:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/its-lit-enamel-pin"/>
+    <title>It&apos;s Lit Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4569_-_Its_Lit_Pin_MOCKUP.jpg?v=1577810793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It's Lit Enamel Pin by Badge Bomb. </p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492916293722</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4569</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492916392026</id>
+    <published>2020-01-01T01:00:38-08:00</published>
+    <updated>2020-01-01T01:00:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/in-my-room-record-enamel-pin"/>
+    <title>In My Room Record Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4571_-_In_My_Room_Record_Pin_MOCKUP.jpg?v=1577810795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In My Room Record Enamel Pin by Badge Bomb. </p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>retro</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492916392026</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4571</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492916457562</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/look-after-yourself-enamel-pin-green"/>
+    <title>Look After Yourself Enamel Pin, Green</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4582_LookAfterYourself-Green-PRINT.jpg?v=1577810797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Look After Yourself Cat Enamel Pin by Gemma Correll. </p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adulting</s:tag>
+    <s:tag>Cats</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492916457562</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4582</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492916228186</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/you-llook-llovely-lama-enamel-pin"/>
+    <title>You Llook Llovely Llama Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4543-LlookLlovely-Llama-Pin-1600px.jpg?v=1577810791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You Llook Llovely Llama Enamel Pin by Gemma Correll. </p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animals</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492916228186</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4543</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492916195418</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/look-after-yourself-enamel-pin-coral"/>
+    <title>Look After Yourself Enamel Pin, Coral</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4542-LookAfterYourself-Pink-PIN-1600px.jpg?v=1577810789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Look After Yourself Cat Enamel Pin by Gemma Correll. </p><ul>
+<li>Hand-illustrated enamel pin.</li>
+<li>Brass core.</li>
+<li>Butterfly clasp for durability.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adulting</s:tag>
+    <s:tag>Cats</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492916195418</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4542</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492916129882</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/i-believe-unicorn-enamel-pin"/>
+    <title>I Believe Unicorn Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4541-I-Believe-Unicorn-Pin-1600px.jpg?v=1577810788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Believe Unicorn Enamel Pin by Gemma Correll.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>animals</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492916129882</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4541</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492916097114</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/hangin-in-there-sloth-enamel-pin"/>
+    <title>Hangin&apos; In There Sloth Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4540-Hangin-In-There-Sloth-PIN-1600px.jpg?v=1577810787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hangin' In There Sloth Enamel Pin by Gemma Correll. </p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adulting</s:tag>
+    <s:tag>animals</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492916097114</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4540</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492915998810</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pride-pug-enamel-pin"/>
+    <title>Pride Pug Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4339-PridePug-Pin-1600px.jpg?v=1577810785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pride Pug Enamel Pin by Gemma Correll.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492915998810</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4539</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/275236061213</id>
+    <published>2019-12-19T16:00:00-08:00</published>
+    <updated>2019-12-19T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/nyc-taxi-enamel-pin"/>
+    <title>NYC Taxi Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3686-NYCTaxi-Pin-WHITE-1600px.jpg?v=1541546563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New York Yellow Taxi Cab enamel by Allison Cole. 1" soft enamel pin with black metal. </p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New York</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/275236061213</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>3686</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4267372871770</id>
+    <published>2019-10-15T10:33:32-07:00</published>
+    <updated>2019-10-15T10:33:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/dog-petting-champion-enamel-pin"/>
+    <title>Dog Petting Champion Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4373-DogPettingChampion-1600px.jpg?v=1571160300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dog Petting Champion Enamel Pin by Gemma Correll.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4267372871770</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4373</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4267373068378</id>
+    <published>2019-10-15T10:33:29-07:00</published>
+    <updated>2019-10-15T10:33:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/bad-at-sports-orange-pennant-pin"/>
+    <title>Bad At Sports Orange Pennant Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4221-BadAtSports-PennantPin-Orange-1600px.jpg?v=1571160303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bad At Sports Orange Pennant Pin by Gemma Correll. Picked last in gym class? This is for you!</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Enamel Pins</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4267373068378</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4421</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4267372740698</id>
+    <published>2019-10-15T10:33:22-07:00</published>
+    <updated>2019-10-15T10:33:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/outside-medallion-enamel-pin"/>
+    <title>Outside Medallion Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4372-OutsideMedallion-1500px.jpg?v=1571160296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Outside Medallion Enamel Pin by Badge Bomb. </p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camping</s:tag>
+    <s:tag>Enamel Pins</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4267372740698</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4372</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4267372642394</id>
+    <published>2019-10-15T10:33:20-07:00</published>
+    <updated>2019-10-15T10:33:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/love-rainbow-enamel-pin"/>
+    <title>Love Rainbow Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4371-RainbowPride-Pin-1600px.jpg?v=1571160292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love Rainbow Enamel Pin by Badge Bomb.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Enamel Pins</s:tag>
+    <s:tag>Feminist</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4267372642394</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4371</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4267372576858</id>
+    <published>2019-10-15T10:33:01-07:00</published>
+    <updated>2019-10-15T10:33:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/respect-enamel-pin"/>
+    <title>Respect Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4370-Respect-Pin-1600px.jpg?v=1571160288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Respect Enamel Pin by Badge Bomb.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4267372576858</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4370</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4267372544090</id>
+    <published>2019-10-15T10:32:36-07:00</published>
+    <updated>2019-10-15T10:32:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/science-heart-enamel-pin"/>
+    <title>Science Heart Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4369-Science-Pin-1600px.jpg?v=1571160285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Science Heart Enamel Pin by Badge Bomb.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4267372544090</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4369</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+</feed>

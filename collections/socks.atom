@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/socks.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2021-06-16T01:00:15-07:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687418351783</id>
+    <published>2021-06-16T01:00:15-07:00</published>
+    <updated>2021-06-16T01:00:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-pug-socks"/>
+    <title>Pug Socks by Gemma Correll</title>
+    <s:type>Socks</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4819-PugSocks-Square-WEB.jpg?v=1620325435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pug Socks by Gemma Correll.</p><ul>
+<li>Unisex.</li>
+<li>One size fits most.</li>
+<li>Cotton blend socks.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687418351783</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4819</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687418482855</id>
+    <published>2021-06-16T01:00:14-07:00</published>
+    <updated>2021-06-16T01:00:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pride-socks"/>
+    <title>Pride Socks</title>
+    <s:type>Socks</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4822-PrideSocks-Square-WEB.jpg?v=1620325437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pride Socks by Badge Bomb.</p><ul>
+<li>Unisex.</li>
+<li>One size fits most.</li>
+<li>Cotton blend socks.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687418482855</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4822</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687418450087</id>
+    <published>2021-06-16T01:00:13-07:00</published>
+    <updated>2021-06-16T01:00:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/love-rainbow-socks"/>
+    <title>Love Rainbow Socks</title>
+    <s:type>Socks</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4821-LoveSocks-Square-WEB.jpg?v=1620325436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love Rainbow Socks by Badge Bomb.</p><ul>
+<li>Unisex.</li>
+<li>One size fits most.</li>
+<li>Cotton blend socks.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687418450087</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4821</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687418384551</id>
+    <published>2021-06-16T01:00:13-07:00</published>
+    <updated>2021-06-16T01:00:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-cat-hair-on-everything-socks"/>
+    <title>Cat Hair on Everything Socks</title>
+    <s:type>Socks</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4820-CatHariSocks-Square-WEB.jpg?v=1620325435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cat Hair on Everything Socks by Gemma Correll.</p><ul>
+<li>Unisex.</li>
+<li>One size fits most.</li>
+<li>Cotton blend socks.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687418384551</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4820</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

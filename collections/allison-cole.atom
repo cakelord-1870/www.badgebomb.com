@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/allison-cole.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2021-06-15T17:00:00-07:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/6843452850343</id>
+    <published>2021-06-15T17:00:00-07:00</published>
+    <updated>2021-06-15T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-nyc-street-sign-sticker"/>
+    <title>New York City Street Sign Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4814-NYCSign-800x800.jpg?v=1623877575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New York City Street Sign Sticker by Allison Cole and Badge Bomb. </p><ul>
+<li>Waterproof and sunproof.</li>
+<li>Made in USA</li>
+<li>Sold loose.</li>
+</ul><p>All Badge Bomb purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Local</s:tag>
+    <s:tag>New York</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6843452850343</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4814</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6809000771751</id>
+    <published>2021-06-09T07:53:40-07:00</published>
+    <updated>2021-06-09T07:53:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/puzzlers-paradise-500-piece-puzzle"/>
+    <title>Puzzler&apos;s Paradise 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4800-Puzzler_sParadise-Puzzle-SalesImage-1200px.jpg?v=1623766516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Puzzler's Paradise 500 Piece Puzzle by Allison Cole. Includes a printed poster of the puzzle art.</p><p>Puzzle Specs:</p><ul>
+<li>18” x 24” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Ribbon cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 11.75 x 8 x 2".</li>
+</ul><p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6809000771751</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4800</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6809000542375</id>
+    <published>2021-06-01T17:00:00-07:00</published>
+    <updated>2021-06-01T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/i-heart-portland-500-piece-puzzle"/>
+    <title>I Heart Portland 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4803-Portland-Puzzle-SalesImage-1200px.jpg?v=1623766540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Heart Portland 500 Piece Puzzle. Includes a printed poster of the puzzle design.</p><p>Puzzle Specs:</p><ul>
+<li>16.5” x 22.5” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Random ribbon cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 6.75 x 9.25 x 2".</li>
+</ul><p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6809000542375</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4803</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6808866291879</id>
+    <published>2021-06-01T17:00:00-07:00</published>
+    <updated>2021-06-01T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-statue-of-liberty-torch-big-sticker"/>
+    <title>Statue of Liberty Torch Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4813-NYCTorch-800x800.jpg?v=1622657311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Statue of Liberty Torch Big Sticker by Allison Cole &amp; Badge Bomb.</p><p>Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Local</s:tag>
+    <s:tag>New York</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6808866291879</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4813</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687439945895</id>
+    <published>2021-06-01T01:00:16-07:00</published>
+    <updated>2021-06-01T01:00:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-statue-of-liberty-enamel-pin"/>
+    <title>Statue of Liberty Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4811-Torch-800x800.jpg?v=1622656812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Statue of Liberty Torch Enamel Pin by Allison Cole.</p><ul>
+<li>Hand-illustrated enamel pin</li>
+<li>Butterfly clasp for durability</li>
+<li>Packaged on backer card in a hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Local</s:tag>
+    <s:tag>New York</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687439945895</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4811</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687439978663</id>
+    <published>2021-06-01T01:00:15-07:00</published>
+    <updated>2021-06-01T01:00:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-nyc-street-sign-enamel-pin"/>
+    <title>NYC Street Sign Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4812-NYCSign-800x800.jpg?v=1622656829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NYC Street Sign Enamel Pin by Allison Cole.</p><ul>
+<li>Hand-illustrated enamel pin</li>
+<li>Butterfly clasp for durability</li>
+<li>Packaged on backer card in a hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Local</s:tag>
+    <s:tag>New York</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687439978663</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4812</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6092141767</id>
+    <published>2021-05-29T01:00:09-07:00</published>
+    <updated>2021-05-29T01:00:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/my-heart-belongs-to-vermont-big-magnet"/>
+    <title>My Heart Belongs To Vermont Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3283-AllisonCole-MAGNET-1200px_4f338f70-ac35-4fa9-b9cd-d2ebebdef831.jpg?v=1516037000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/my-heart-belongs-to-vermont-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>My Heart Belongs To Vermont Big Magnet by Allison Cole.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Vermont</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6092141767</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3283</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6092141767</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3283 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6482052935</id>
+    <published>2021-03-30T17:00:00-07:00</published>
+    <updated>2021-03-30T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/rollerskate-patch"/>
+    <title>Rollerskate Chenille Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3306_Rollerskate-Patch-WHITE-1200.jpg?v=1541546854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rollerskate Chenille iron-on patch by Allison Cole.</p><ul>
+<li>Patch comes packaged in individual hang bag. </li>
+<li>Size: approx. 3" x 3"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6482052935</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>3306</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1306751303770</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/not-before-my-coffee-big-magnet"/>
+    <title>Not Before My Coffee Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4134-AllisonCole-Magnet-1200px.jpg?v=1528226387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/not-before-my-coffee-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Not Before My Coffee Big Magnet by Allison Cole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>coffee &amp; such</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1306751303770</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4134</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1306751303770</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>4134 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1306751205466</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/happy-coffee-big-magnet"/>
+    <title>Happy Coffee Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4132-AllisonCole-Magnet-1200px.jpg?v=1528226383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/happy-coffee-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Happy Coffee Big Magnet by Allison Cole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>coffee &amp; such</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1306751205466</id>
+      <title>2.25” Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4132</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1306751205466</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>4132 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/377177538589</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/unicorn-head-magnet"/>
+    <title>Unicorn Head Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3953-AllisonC-MAGNET-1200px_888d86a4-8455-4c4f-b759-9375cef12b5f.jpg?v=1561738913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/unicorn-head-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unicorn Head Magnet by Allison Cole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/377177538589</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3953</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/377177538589</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3953 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6092223303</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/my-heart-belongs-to-massachusetts-big-magnet"/>
+    <title>My Heart Belongs To Massachusetts Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3284-AllisonCole-MAGNET-1200px_7ac57539-5b13-44c3-ad92-6f171fba558f.jpg?v=1516036998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/my-heart-belongs-to-massachusetts-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>My Heart Belongs To Massachusetts Big Magnet by Allison Cole.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6092223303</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3284</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6092223303</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3284 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6092039879</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/green-mountain-state-big-magnet"/>
+    <title>Vermont Green Mountain State Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3281-AllisonCole-MAGNET-1200px_36efb1b9-6797-45c0-9a29-b87eae15b49d.jpg?v=1516037043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/green-mountain-state-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vermont Green Mountain State Big Magnet by Allison Cole.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Vermont</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6092039879</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3281</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6092039879</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3281 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6091334215</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/i-heart-vermont-big-magnet"/>
+    <title>I Heart Vermont Flannel Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3279-AllisonCole-MAGNET-1200px_df505fd5-a801-431f-99d9-b53adfc8beca.jpg?v=1541546200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/i-heart-vermont-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Heart Vermont Flannel Big Magnet by Allison Cole.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Vermont</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6091334215</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3279</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6091334215</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3279 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/372417997</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/love-bear-big-magnet"/>
+    <title>Love Bear Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2661-AllisonCole-MAGNET-1200px_ce3e93f9-ae7a-44b6-b366-25fbad4b07da.jpg?v=1516036977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/love-bear-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love Bear Big Magnet by Allison Cole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/372417997</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2661</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/372417997</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2661 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1306751336538</id>
+    <published>2021-03-03T16:00:00-08:00</published>
+    <updated>2021-03-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/i-heart-coffee-big-magnet"/>
+    <title>I Heart Coffee Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4135-AllisonCole-Magnet-1200px.jpg?v=1528226389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/i-heart-coffee-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Heart Coffee Big Magnet by Allison Cole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>coffee &amp; such</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1306751336538</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4135</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1306751336538</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>4135 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/377177309213</id>
+    <published>2021-03-03T16:00:00-08:00</published>
+    <updated>2021-03-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/inclusive-feminism-magnet"/>
+    <title>Inclusive Feminism Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3836-AllisonC-MAGNET-1200px_514ae30d-4823-4d38-9f55-eff5213f90f1.jpg?v=1541536148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/inclusive-feminism-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inclusive Feminism Magnet by Allison Cole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/377177309213</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3836</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/377177309213</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3836 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/377177047069</id>
+    <published>2021-03-03T16:00:00-08:00</published>
+    <updated>2021-03-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/resist-megaphone-magnet"/>
+    <title>Resist Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3830-AllisonC-MAGNET-1200px_ba29636a-235e-41ad-a5af-ec9e8aec4938.jpg?v=1541536328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/resist-megaphone-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Resist Magnet by Allison Cole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/377177047069</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3830</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/377177047069</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3830 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/360811724829</id>
+    <published>2021-03-03T16:00:00-08:00</published>
+    <updated>2021-03-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/magic-unicorn-magnet"/>
+    <title>Magic Unicorn Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3950-AllisonC-MAGNET-1200px.jpg?v=1561740455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/magic-unicorn-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Magic Unicorn Magnet by Allison Cole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/360811724829</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3950</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/360811724829</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3950 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/332749433</id>
+    <published>2021-03-03T16:00:00-08:00</published>
+    <updated>2021-03-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/cook-up-a-storm-big-magnet"/>
+    <title>Bric-a-Brac Cook Up a Storm Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2MAC-2492-350x.jpg?v=1541545537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            0.95 - 1.20
+            <a href="https://www.badgebomb.com/products/cook-up-a-storm-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cook up a Storm Big Magnet by Allison Cole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/332749433</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>2492</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/332749433</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">1.20</s:price>
+      <s:sku>2492 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/332749425</id>
+    <published>2021-03-03T16:00:00-08:00</published>
+    <updated>2021-03-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/cassette-tape-big-magnet"/>
+    <title>Bric-a-Brac Cassette Tape Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2MAC-2491-350x.jpg?v=1541545533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            0.95 - 1.20
+            <a href="https://www.badgebomb.com/products/cassette-tape-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cassette Tape Big Magnet by Allison Cole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/332749425</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>2491</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/332749425</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">1.20</s:price>
+      <s:sku>2491 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/332749417</id>
+    <published>2021-03-03T16:00:00-08:00</published>
+    <updated>2021-03-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/analog-big-magnet"/>
+    <title>Bric-a-Brac Analog Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2MAC-2490-350x.jpg?v=1541545529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            0.95 - 1.20
+            <a href="https://www.badgebomb.com/products/analog-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Analog Big Magnet by Allison Cole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/332749417</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>2490</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/332749417</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">1.20</s:price>
+      <s:sku>2490 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6233063719079</id>
+    <published>2021-02-12T01:00:09-08:00</published>
+    <updated>2021-02-12T01:00:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-purrfect-birthday"/>
+    <title>Allison Cole Illustration - Purrfect Birthday</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4769-AllisonCole-PurrfectBirthdayA2CARD-1200px.jpg?v=1611600570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="box-sizing: border-box; margin-bottom: 8px; color: #535456; font-family: Lato, HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">Purrfect Birthday Cards. Blank Inside</div><ul style="box-sizing: border-box; margin: 0px 0px 16px 20px; padding: 0px; list-style-position: outside; list-style-image: initial; color: #535456; font-family: Lato, HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">4.25" x 5.5" A2 size greeting card</li>
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">Printed with soy ink in the USA</li>
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">FSC certified 100% post-consumer recycled paper</li>
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6233063719079</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>4769</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/785837293658</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/parent-survival-kit-a2-card"/>
+    <title>Parent Survival Kit A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3972-AllisonCole-A2CARD-1200px.jpg?v=1541536287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/785837293658</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3972</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/744045150298</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/mom-thanks-trophy"/>
+    <title>Mom Thanks Trophy A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3989-AllisonCole-A2CARD-1200px_0e6a9a46-bfab-4a24-baa4-c06f31b6b322.jpg?v=1522950335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/744045150298</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>3989</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/feminist.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2021-06-16T01:00:14-07:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687418482855</id>
+    <published>2021-06-16T01:00:14-07:00</published>
+    <updated>2021-06-16T01:00:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pride-socks"/>
+    <title>Pride Socks</title>
+    <s:type>Socks</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4822-PrideSocks-Square-WEB.jpg?v=1620325437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pride Socks by Badge Bomb.</p><ul>
+<li>Unisex.</li>
+<li>One size fits most.</li>
+<li>Cotton blend socks.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687418482855</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4822</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687418450087</id>
+    <published>2021-06-16T01:00:13-07:00</published>
+    <updated>2021-06-16T01:00:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/love-rainbow-socks"/>
+    <title>Love Rainbow Socks</title>
+    <s:type>Socks</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4821-LoveSocks-Square-WEB.jpg?v=1620325436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love Rainbow Socks by Badge Bomb.</p><ul>
+<li>Unisex.</li>
+<li>One size fits most.</li>
+<li>Cotton blend socks.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687418450087</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4821</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6164609794215</id>
+    <published>2021-01-01T01:00:11-08:00</published>
+    <updated>2021-01-01T01:00:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/allison-cole-illustration-feminist-rectangle-magnet"/>
+    <title>Feminist Rectangle Magnet</title>
+    <s:type>2.5x3.5 Rectangular Magnet</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4779.jpg?v=1620321765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>2.5x3.5 Rectangular Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feminist Rectangle Magnet by Allison Cole.</p><ul>
+<li>2.5" x 3.5"</li>
+<li>USA made with recycled paper &amp; steel</li>
+<li>Hand-pressed by Badge Bomb</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6164609794215</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4779</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6164608843943</id>
+    <published>2020-12-29T15:22:54-08:00</published>
+    <updated>2020-12-29T15:22:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pride-rectangle-magnet"/>
+    <title>Pride Rectangle Magnet</title>
+    <s:type>2.5x3.5 Rectangular Magnet</s:type>
+    <s:vendor>Badge Bomb Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4774.jpg?v=1620322059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb Original<br>
+        <strong>Type: </strong>2.5x3.5 Rectangular Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pride Rectangle Magnet by Badge Bomb.</p><ul>
+<li>2.5" x 3.5"</li>
+<li>USA made with recycled paper &amp; steel</li>
+<li>Hand-pressed by Badge Bomb</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6164608843943</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4774</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6164608680103</id>
+    <published>2020-12-29T15:22:47-08:00</published>
+    <updated>2020-12-29T15:22:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/love-rainbow-rectangle-magnet"/>
+    <title>Love Rainbow Rectangle Magnet</title>
+    <s:type>2.5x3.5 Rectangular Magnet</s:type>
+    <s:vendor>Badge Bomb Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4773.jpg?v=1620322051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb Original<br>
+        <strong>Type: </strong>2.5x3.5 Rectangular Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love Rainbow Rectangle Magnet by Badge Bomb.</p><ul>
+<li>2.5" x 3.5"</li>
+<li>USA made with recycled paper &amp; steel</li>
+<li>Hand-pressed by Badge Bomb</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6164608680103</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4773</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5585604542631</id>
+    <published>2020-08-03T14:25:05-07:00</published>
+    <updated>2020-08-03T14:25:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/rainbow-vote-button"/>
+    <title>Rainbow Vote Button</title>
+    <s:type>1.25&quot; Button</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/LS-4686.jpg?v=1596485172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>1.25&quot; Button<br>
+        <strong>Price: </strong>
+            0.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1.25" Rainbow Vote Button! Made in USA with recycled materials, like post-industrial soup can scraps. A la carte buttons take 5-10 days to process and ship.</p><ul>
+<li>20 minimum per style</li>
+<li>packaged loose</li>
+<li>Made in USA</li>
+<li>Badge Bomb is a member of 1% For the Planet</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vote</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5585604542631</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.62</s:price>
+      <s:sku>4686</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5585574461607</id>
+    <published>2020-08-02T17:00:00-07:00</published>
+    <updated>2020-08-02T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pride-button"/>
+    <title>Pride Button</title>
+    <s:type>1.25&quot; Button</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/LS-4677.jpg?v=1596484510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>1.25&quot; Button<br>
+        <strong>Price: </strong>
+            0.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1.25" Pride Button! Made in USA with recycled materials, like post-industrial soup can scraps. A la carte buttons take 5-10 days to process and ship.</p><ul>
+<li>20 minimum per style</li>
+<li>packaged loose</li>
+<li>Made in USA</li>
+<li>Badge Bomb is a member of 1% For the Planet</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5585574461607</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.62</s:price>
+      <s:sku>4677</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5585301831847</id>
+    <published>2020-08-02T17:00:00-07:00</published>
+    <updated>2020-08-02T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/rainbow-vote-sticker"/>
+    <title>Rainbow Vote Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4681-BadgeBomb-RainbowVote.jpg?v=1596477489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rainbow Vote Sticker by Badge Bomb. Waterproof, sun-proof, long-lasting big sticker singles. </p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul><p>See more vote designs <a title="Badge Bomb Stickers Puzzles Buttons Magnets Enamel pins and more" href="https://badgebombwholesale.myshopify.com/collections/vote">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vote</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5585301831847</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4681</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492925796442</id>
+    <published>2020-01-01T01:00:27-08:00</published>
+    <updated>2020-01-01T01:00:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/kate-sutton-respect"/>
+    <title>Respect Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Kate Sutton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4555-Respect-MAGNET-Web.jpg?v=1577816442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kate Sutton<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Respect Magnet by Badge Bomb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big magnet</s:tag>
+    <s:tag>Feminist</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492925796442</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4555</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492925730906</id>
+    <published>2020-01-01T01:00:26-08:00</published>
+    <updated>2020-01-01T01:00:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/kate-sutton-pride"/>
+    <title>PRIDE Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Kate Sutton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4554-PRIDE-MAGNET-Web-2021.jpg?v=1628179758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kate Sutton<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PRIDE Magnet by Badge Bomb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big magnet</s:tag>
+    <s:tag>Feminist</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492925730906</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4554</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492925599834</id>
+    <published>2020-01-01T01:00:19-08:00</published>
+    <updated>2020-01-01T01:00:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/kate-sutton-feminist"/>
+    <title>Feminist Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Kate Sutton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4551-Feminist-MAGNET-Web.jpg?v=1577816218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kate Sutton<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feminist Magnet by Badge Bomb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Feminist</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492925599834</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4551</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492961611866</id>
+    <published>2019-12-31T09:30:20-08:00</published>
+    <updated>2019-12-31T09:30:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/respect-big-magnets-bundle"/>
+    <title>Respect Big Magnets Bundle</title>
+    <s:type>Magnet Bundle</s:type>
+    <s:vendor>Badge Bomb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/MB4575-Respect-Magnets-2020-1200px.jpg?v=1577813435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb<br>
+        <strong>Type: </strong>Magnet Bundle<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R-E-S-P-E-C-T! These magnets are perfect little reminders that you can make a change. 60 magnets, 8 designs, 2.25".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>locker page</s:tag>
+    <s:tag>Magnet Bundle</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492961611866</id>
+      <title>60 piece assortment</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>MB4575</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492915998810</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pride-pug-enamel-pin"/>
+    <title>Pride Pug Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4339-PridePug-Pin-1600px.jpg?v=1577810785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pride Pug Enamel Pin by Gemma Correll.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492915998810</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4539</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492901318746</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/we-can-do-it-pug-sticker"/>
+    <title>We Can Do It Pug Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4531-STICKER-We-Can-Do-It-Pug-900px.jpg?v=1578375302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We Can Do It Pug Sticker by Gemma Correll<span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">. </span></p><ul>
+<li>Waterproof, sun-proof, long-lasting</li>
+<li>2.25 x3"</li>
+<li>Sold loose in 12s</li>
+<li>Made in USA</li>
+</ul><p>Badge Bomb is a member of 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adulting</s:tag>
+    <s:tag>Dogs</s:tag>
+    <s:tag>Feminist</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492901318746</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4531</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492900237402</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pride-pug-sticker"/>
+    <title>Pride Pug Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4525-STICKER-Pride-Pug-900px.jpg?v=1578375199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pride Pug Sticker by Gemma Correll. Waterproof, sun-proof, long-lasting big sticker.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul><p>See more designs like this <a title="Badge Bomb Pride Unity Feminism Pins Patches Buttons Magnets Stickers" href="../../../../../pride">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dogs</s:tag>
+    <s:tag>Feminist</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492900237402</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4525</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4399400386650</id>
+    <published>2019-11-23T01:00:27-08:00</published>
+    <updated>2019-11-23T01:00:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/rainbow-tongue-sticker"/>
+    <title>Rainbow Tongue Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Lisa Congdon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4473-STICKER-Unity-Rainbow-Tongue-900px.jpg?v=1578374732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisa Congdon<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rainbow Tongue Big Sticker designed by Lisa Congdon. Waterproof, sun-proof, long-lasting big sticker. Minimum Order Quantity: 12</p><p>See more retro designs like this <a title="Badge Bomb Buttons Magnets Pins Patches Stickers Retro" href="../../../../../retro">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Unity</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4399400386650</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4473</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4399399600218</id>
+    <published>2019-11-23T01:00:26-08:00</published>
+    <updated>2019-11-23T01:00:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pride-word-rainbow-3-sticker"/>
+    <title>Pride Rainbow Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4441-STICKER-Pride-Word-Burst-900px.jpg?v=1578374564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pride design by Badge Bomb. Waterproof, sun-proof, long-lasting big sticker. Minimum Order Quantity: 12</p><p>See more designs like this <a title="Badge Bomb Buttons Magnets Pins Patches Stickers Feminist" href="../../../../../feminist">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Feminist</s:tag>
+    <s:tag>Unity</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4399399600218</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4441</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4399400091738</id>
+    <published>2019-11-23T01:00:23-08:00</published>
+    <updated>2019-11-23T01:00:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/love-rainbow-3-sticker"/>
+    <title>Love Rainbow Big  Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4444-STICKER-Love-Rainbow-900px.jpg?v=1578374656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love Rainbow design by Badge Bomb. Waterproof, sun-proof, long-lasting big sticker. Minimum Order Quantity: 12</p><p>See more designs like this <a title="Badge Bomb Buttons Magnets Pins Patches Stickers Unity" href="../../../../../unity">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Unity</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4399400091738</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4444</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4399402549338</id>
+    <published>2019-11-23T01:00:20-08:00</published>
+    <updated>2019-11-23T01:00:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/grab-back-sticker"/>
+    <title>Grab Back Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4537-STICKER-Grab-Back-900px.jpg?v=1578375413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grab Back Big Sticker by Allison Cole. Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul><p>See more designs like this <a title="Badge Bomb Buttons Magnets Pins Patches Stickers Grab Back Feminist" href="../../../../../feminist">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Feminist</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4399402549338</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4537</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4399398977626</id>
+    <published>2019-11-23T01:00:19-08:00</published>
+    <updated>2019-11-23T01:00:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/feminist-banner-3-75-sticker"/>
+    <title>Feminist Banner Big Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4439-STICKER-Feminist-Banner-900px.jpg?v=1578374431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feminist Banner design by Badge Bomb. Waterproof, sun-proof, long-lasting big sticker. Minimum Order Quantity: 12</p><p>See more feminist products <a title="Badge Bomb Pins Patches Buttons Magnets Feminist Stickers" href="../../../../../feminist">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Feminist</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4399398977626</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4439</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4399398813786</id>
+    <published>2019-11-23T01:00:14-08:00</published>
+    <updated>2019-11-23T01:00:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/vote-3-sticker"/>
+    <title>VOTE 3&quot; Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4438-STICKER-Vote-Green-Burst-900px.jpg?v=1578374409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VOTE design by Badge Bomb. Waterproof, sun-proof, long-lasting big sticker. Minimum Order Quantity: 12</p><p>See more designs like this <a title="Badge Bomb Pins Patches Buttons Magnets Stickers" href="../../../../../collections/magnet-bundles/products/respect-big-magnets-bundle">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Feminist</s:tag>
+    <s:tag>Vote</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4399398813786</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4438</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4399401500762</id>
+    <published>2019-11-22T01:00:22-08:00</published>
+    <updated>2019-11-22T01:00:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/humanity-rainbow-sticker"/>
+    <title>Humanity Rainbow Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Lisa Congdon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4483-STICKER-Humanity-SQ-900px.jpg?v=1578374987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisa Congdon<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Humanity Rainbow Sticker by Lisa Congdon. Waterproof, sun-proof, long-lasting big sticker. Minimum Order Quantity: 12</p><p>See more designs like this <a title="Badge Bomb Buttons Magnets Pins Patches Stickers Unity" href="../../../../../unity">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Unity</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4399401500762</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4483</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4267372642394</id>
+    <published>2019-10-15T10:33:20-07:00</published>
+    <updated>2019-10-15T10:33:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/love-rainbow-enamel-pin"/>
+    <title>Love Rainbow Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4371-RainbowPride-Pin-1600px.jpg?v=1571160292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love Rainbow Enamel Pin by Badge Bomb.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Enamel Pins</s:tag>
+    <s:tag>Feminist</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4267372642394</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4371</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4267372576858</id>
+    <published>2019-10-15T10:33:01-07:00</published>
+    <updated>2019-10-15T10:33:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/respect-enamel-pin"/>
+    <title>Respect Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4370-Respect-Pin-1600px.jpg?v=1571160288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Respect Enamel Pin by Badge Bomb.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4267372576858</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4370</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4267372413018</id>
+    <published>2019-10-15T10:32:20-07:00</published>
+    <updated>2019-10-15T10:32:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/feminist-banner-enamel-pin"/>
+    <title>Feminist Banner Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4368-Feminst-1600px.jpg?v=1571160282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feminist Banner Enamel Pin by Badge Bomb.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4267372413018</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4368</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+</feed>

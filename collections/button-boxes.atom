@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/button-boxes.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2021-05-06T17:00:00-07:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/9466426695</id>
+    <published>2021-05-06T17:00:00-07:00</published>
+    <updated>2021-05-06T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/tuesday-bassen-slumber-party-button-box"/>
+    <title>Slumber Party Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Tuesday Bassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/BB3361-SlumberParty-2000px.jpg?v=1550859055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuesday Bassen<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dear Diary, I had so much fun at the Slumber Party button box by Tuesday Bassen.</p><p><span style="font-weight: 400;">Box of 120 assorted 1.25 inch buttons. USA Made in Portland by Badge Bomb</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/9466426695</id>
+      <title>1.25&quot; Buttons / 120 Piece Button Box</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>BB3361</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/8032504327</id>
+    <published>2021-05-06T17:00:00-07:00</published>
+    <updated>2021-05-06T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/stay-positive-button-box"/>
+    <title>Stay Positive Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Alex Despain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/BB332-StayPositive-2000px.jpg?v=1550859085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alex Despain<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Positive. Mental. Attitude. Live it with these amazing buttons from Alex DeSpain.</p><ul>
+<li>Box of 120 assorted 1.25 inch buttons.</li>
+<li>USA made in Portland, OR by Badge Bomb</li>
+</ul><p><img src="https://cdn.shopify.com/s/files/1/0203/0046/files/Oregon-Artist_medium.gif?v=1529684723" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/8032504327</id>
+      <title>1.25&quot; Buttons / 120 Piece Button Box</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>BB3362</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1247866433</id>
+    <published>2021-05-06T17:00:00-07:00</published>
+    <updated>2021-05-06T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/washington-buttons-button-box"/>
+    <title>Washington Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Hey Darlin&apos;</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/BB2810_WashingtonBox.jpg?v=1483570131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin&#39;<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proudly designed and manufactured in the Pacific Northwest.  USA Made in Portland, OR by Badge Bomb. This box contains 200 Seattle and Washington buttons.</p><p>See more city and state products <a href="https://www.badgebomb.com/collections/local" target="_blank" rel="noopener">here</a>!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Washington</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1247866433</id>
+      <title>1&quot; Buttons / 200 Piece Button Box</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>BB2810</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/200036573</id>
+    <published>2021-05-06T17:00:00-07:00</published>
+    <updated>2021-05-06T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/lifes-a-garden-button-box"/>
+    <title>Life&apos;s A Garden Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Seltzer Goods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/LifesaGarden_whiteout.jpg?v=1469125932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seltzer Goods<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get your hands dirty with the environmentally themed Life's A Garden Button box from <a href="../../../../../collections/Seltzer-Goods">Seltzer Goods</a>.  <span style="font-weight: 400;">Box of 200 assorted 1 inch buttons. </span>USA Made in Portland, OR by Badge Bomb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/200036573</id>
+      <title>1&quot; Buttons / 200 Piece Button Box</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>BB2310</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/116656992</id>
+    <published>2021-05-06T17:00:00-07:00</published>
+    <updated>2021-05-06T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/nerds-buttons"/>
+    <title>Nerds Buttons - Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>CHetCH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/BB-1606_nerds_635px.jpg?v=1470690038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHetCH<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nerds Buttons Box of awesomely chic geek 1 inch Buttons by CHetCH. For all the  science, math, and grammar nerds in your life! <span style="font-weight: 400;">Box of 200 assorted 1 inch buttons. </span>USA Made in Portland, OR by Badge Bomb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/116656992</id>
+      <title>1&quot; Buttons / 200 Piece Button Box</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>BB1606</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/116181890</id>
+    <published>2021-05-06T17:00:00-07:00</published>
+    <updated>2021-05-06T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/tree-hugger-button-box"/>
+    <title>Tree Hugger Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Suzy Ultman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/BB-2037_500px_900px.jpg?v=1470689654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Suzy Ultman<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tree Hugger Button Box by <a href="../../../../../collections/Suzy-Ultman">Suzy Ultman</a>. <span style="font-weight: 400;">Box of 200 assorted 1 inch buttons. </span>USA Made in Portland, OR by Badge Bomb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/116181890</id>
+      <title>1&quot; Buttons / 200 Piece Button Box</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>BB2037</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/204267465</id>
+    <published>2021-05-05T17:00:00-07:00</published>
+    <updated>2021-05-05T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/lil-readers-button-box"/>
+    <title>Lil&apos; Readers Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Greg Pizzoli</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/LilReaders_whiteout.jpg?v=1469126126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Greg Pizzoli<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lil' Readers Buttons Box by Greg Pizzoli. Book learnin' ain't never bin so phun. <span style="font-weight: 400;">Box of 120 assorted 1.25 inch buttons.  U</span>SA Made in Portland, OR by Badge Bomb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/204267465</id>
+      <title>1.25&quot; Buttons / 120 Piece Button Box</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>BB2380</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6674158321831</id>
+    <published>2021-04-28T12:49:38-07:00</published>
+    <updated>2021-04-28T12:49:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/i-got-vaccinated-button"/>
+    <title>I Got Vaccinated Button</title>
+    <s:type>1.25&quot; Button</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Vaccinated-4824_1080x1080_3a73b49b-f672-4178-aa4f-144e6906750f.jpg?v=1619639234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>1.25&quot; Button<br>
+        <strong>Price: </strong>
+            0.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This button has no side effects! Made in USA with recycled materials, like post-industrial soup can scraps. A la carte buttons take up to 5-10 days to process and ship.</p>
+<ul>
+<li>20 minimum per style</li>
+<li>packaged loose</li>
+<li>Made in USA</li>
+<li>Badge Bomb is a member of 1% For the Planet</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6674158321831</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.62</s:price>
+      <s:sku>4824</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5585764319399</id>
+    <published>2020-08-03T17:00:00-07:00</published>
+    <updated>2020-08-03T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/social-distancing-button-green"/>
+    <title>Social Distancing Button - Green</title>
+    <s:type>2.25&quot; Button</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/LS-4680.jpg?v=1601409730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>2.25&quot; Button<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Big Social Distancing Button in Green! Made in USA with recycled materials, like post-industrial soup can scraps. A la carte buttons take 5-10 days to process and ship.</p><ul style="color: #212b36; font-family: -apple-system, system-ui, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">
+<li>20 minimum per style</li>
+<li>packaged loose</li>
+<li>Made in USA</li>
+<li>Badge Bomb is a member of 1% For the Planet</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5585764319399</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.80</s:price>
+      <s:sku>4680</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5585606443175</id>
+    <published>2020-08-03T14:25:07-07:00</published>
+    <updated>2020-08-03T14:25:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/black-white-vote-button"/>
+    <title>Black &amp; White Vote Button</title>
+    <s:type>1.25&quot; Button</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/LS-4688.jpg?v=1596485217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>1.25&quot; Button<br>
+        <strong>Price: </strong>
+            0.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1.25" Black &amp; White Vote Button! Made in USA with recycled materials, like post-industrial soup can scraps. A la carte buttons take 5-10 days to process and ship.</p><ul>
+<li>20 minimum per style</li>
+<li>packaged loose</li>
+<li>Made in USA</li>
+</ul><p>All purchases support 1% For The Planet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vote</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5585606443175</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.62</s:price>
+      <s:sku>4688</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5585606246567</id>
+    <published>2020-08-03T14:25:06-07:00</published>
+    <updated>2020-08-03T14:25:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/green-vote-button"/>
+    <title>Green Vote Button</title>
+    <s:type>1.25&quot; Button</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/LS-4687.jpg?v=1596485213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>1.25&quot; Button<br>
+        <strong>Price: </strong>
+            0.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1.25" Green Vote Button! Made in USA with recycled materials, like post-industrial soup can scraps. A la carte buttons take 5-10 days to process and ship.</p><ul>
+<li>20 minimum per style</li>
+<li>packaged loose</li>
+<li>Made in USA</li>
+<li>Badge Bomb is a member of 1% For the Planet</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vote</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5585606246567</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.62</s:price>
+      <s:sku>4687</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5585605558439</id>
+    <published>2020-08-03T14:25:05-07:00</published>
+    <updated>2020-08-03T14:25:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pink-vote-button"/>
+    <title>Pink Vote Button</title>
+    <s:type>1.25&quot; Button</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/LS-4689.jpg?v=1596485199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>1.25&quot; Button<br>
+        <strong>Price: </strong>
+            0.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1.25" Pink Vote Button! Made in USA with recycled materials, like post-industrial soup can scraps. A la carte buttons take 5-10 days to process and ship.</p><ul>
+<li>20 minimum per style</li>
+<li>packaged loose</li>
+<li>Made in USA</li>
+<li>Badge Bomb is a member of 1% For the Planet</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vote</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5585605558439</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.62</s:price>
+      <s:sku>4689</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5585604542631</id>
+    <published>2020-08-03T14:25:05-07:00</published>
+    <updated>2020-08-03T14:25:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/rainbow-vote-button"/>
+    <title>Rainbow Vote Button</title>
+    <s:type>1.25&quot; Button</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/LS-4686.jpg?v=1596485172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>1.25&quot; Button<br>
+        <strong>Price: </strong>
+            0.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1.25" Rainbow Vote Button! Made in USA with recycled materials, like post-industrial soup can scraps. A la carte buttons take 5-10 days to process and ship.</p><ul>
+<li>20 minimum per style</li>
+<li>packaged loose</li>
+<li>Made in USA</li>
+<li>Badge Bomb is a member of 1% For the Planet</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vote</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5585604542631</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.62</s:price>
+      <s:sku>4686</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5585764188327</id>
+    <published>2020-08-02T17:00:00-07:00</published>
+    <updated>2020-08-02T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/social-distancing-button-red"/>
+    <title>Social Distancing Button - Red</title>
+    <s:type>2.25&quot; Button</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/LS-4643.jpg?v=1596489602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>2.25&quot; Button<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Big Social Distancing Button in Red! Made in USA with recycled materials, like post-industrial soup can scraps. A la carte buttons take 5-10 days to process and ship.</p><ul style="color: #212b36; font-family: -apple-system, system-ui, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">
+<li>20 minimum per style</li>
+<li>packaged loose</li>
+<li>Made in USA</li>
+<li>Badge Bomb is a member of 1% For the Planet</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5585764188327</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.80</s:price>
+      <s:sku>4643</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5585764090023</id>
+    <published>2020-08-02T17:00:00-07:00</published>
+    <updated>2020-08-02T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/social-distancing-button-yellow-ruler"/>
+    <title>Social Distancing Button - Yellow Ruler</title>
+    <s:type>2.25&quot; Button</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/LS-4642.jpg?v=1596489599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>2.25&quot; Button<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Big Social Distancing Button - Yellow Ruler! Made in USA with recycled materials, like post-industrial soup can scraps. A la carte buttons take 5-10 days to process and ship.</p><ul style="color: #212b36; font-family: -apple-system, system-ui, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">
+<li>20 minimum per style</li>
+<li>packaged loose</li>
+<li>Made in USA</li>
+<li>Badge Bomb is a member of 1% For the Planet</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5585764090023</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.80</s:price>
+      <s:sku>4642</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5585756815527</id>
+    <published>2020-08-02T17:00:00-07:00</published>
+    <updated>2020-08-02T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/social-distancing-button-orange-ruler"/>
+    <title>Social Distancing Button - Orange Ruler</title>
+    <s:type>2.25&quot; Button</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Orange_Ruler.jpg?v=1596489357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>2.25&quot; Button<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Big Social Distancing Button - Orange Ruler! Made in USA with recycled materials, like post-industrial soup can scraps. A la carte buttons take 5-10 days to process and ship.</p><ul style="color: #212b36; font-family: -apple-system, system-ui, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">
+<li>20 minimum per style</li>
+<li>packaged loose</li>
+<li>Made in USA</li>
+<li>Badge Bomb is a member of 1% For the Planet</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5585756815527</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.80</s:price>
+      <s:sku>4641</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5585574461607</id>
+    <published>2020-08-02T17:00:00-07:00</published>
+    <updated>2020-08-02T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pride-button"/>
+    <title>Pride Button</title>
+    <s:type>1.25&quot; Button</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/LS-4677.jpg?v=1596484510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>1.25&quot; Button<br>
+        <strong>Price: </strong>
+            0.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1.25" Pride Button! Made in USA with recycled materials, like post-industrial soup can scraps. A la carte buttons take 5-10 days to process and ship.</p><ul>
+<li>20 minimum per style</li>
+<li>packaged loose</li>
+<li>Made in USA</li>
+<li>Badge Bomb is a member of 1% For the Planet</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5585574461607</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.62</s:price>
+      <s:sku>4677</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5572562616487</id>
+    <published>2020-07-29T17:00:00-07:00</published>
+    <updated>2020-07-29T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/love-button"/>
+    <title>Love Button</title>
+    <s:type>1.25&quot; Button</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/LS-4678.jpg?v=1596147534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>1.25&quot; Button<br>
+        <strong>Price: </strong>
+            0.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1.25" Love Button! Made in USA with recycled materials, like post-industrial soup can scraps. A la carte buttons take 5-10 days to process and ship.</p><ul>
+<li>20 minimum per style</li>
+<li>packaged loose</li>
+<li>Made in USA</li>
+<li>Badge Bomb is a member of 1% For the Planet</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5572562616487</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.62</s:price>
+      <s:sku>4678</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492861571162</id>
+    <published>2020-01-01T01:00:42-08:00</published>
+    <updated>2020-01-01T01:00:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/welcome-to-the-shit-show"/>
+    <title>Welcome to the Shit Show Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Ephemera Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Shit_Show_silo.jpg?v=1577820213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ephemera Inc.<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Welcome to the Shit Show Button Box by Ephemera. Click the "back" button if you don't want to see some sass on these button designs. 120 buttons, 16 designs, 1.25" size.</p><p>Fits on all Badge Bomb box displays.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adulting</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492861571162</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>BB4453</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492861636698</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/express-yourself-ephemera-button-box"/>
+    <title>Express Yourself Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Ephemera Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Express_Yourself_silo.jpg?v=1577820276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ephemera Inc.<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Express Yourself Button Box by Ephemera. Classic retro designs mixed with some modern political phrases. We can do it! 120 buttons, 16 designs, 1.25" buttons.</p><p>Fits on all Badge Bomb box displays.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Humor</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492861636698</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>BB4455</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492861603930</id>
+    <published>2019-12-30T16:00:00-08:00</published>
+    <updated>2019-12-30T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/bad-at-sports-1-25-button-box"/>
+    <title>Bad At Sports Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Bad_at_Sports_BB4454.jpg?v=1577819350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bad At Sports Button Box by Gemma Correll. Who are you rooting for? the mild cats? the oddballs? the couch potatoes? This one goes out to all the slow pokes out there! 120 buttons, 16 designs, 1.25" buttons.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492861603930</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>BB4454</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1884010414170</id>
+    <published>2019-07-08T14:52:02-07:00</published>
+    <updated>2019-07-08T14:52:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/girl-power-button-box"/>
+    <title>Girl Power Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Girl_Power.jpg?v=1562622624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Girl Power Button Box by Allison Cole! 120 buttons, 12 designs, 1.25" buttons.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>button box</s:tag>
+    <s:tag>Feminist</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1884010414170</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>BB4374</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1884007465050</id>
+    <published>2019-07-07T17:00:00-07:00</published>
+    <updated>2019-07-07T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-best-in-show"/>
+    <title>Best in Show Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/best_in_Show.jpg?v=1562623036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A variety of Best in Show buttons for your favorite dogs! 120 buttons, 16 designs, 1.25" buttons. by Gemma Correll.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>button box</s:tag>
+    <s:tag>Dogs</s:tag>
+    <s:tag>Gemma Correll</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1884007465050</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>BB4375</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1611489083482</id>
+    <published>2019-01-01T01:01:34-08:00</published>
+    <updated>2019-01-01T01:01:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/lisa-congdon-roll-with-it"/>
+    <title>Roll With It Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Lisa Congdon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/BB4220-RollwithIt-2000px.jpg?v=1545422750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisa Congdon<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roll With It Button Box designed by <a href="https://www.badgebomb.com/collections/lisa-congdon" target="_blank" rel="noopener noreferrer">Lisa Congdon</a></p><p><span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">Box of 120 assorted 1.25 inch buttons. USA made in Portland, OR by Badge Bomb.   </span></p><p>See Lisa's entire "Roll With It" collection <a href="https://www.badgebomb.com/collections/retro" target="_blank" rel="noopener noreferrer">here</a>!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Button Box</s:tag>
+    <s:tag>Lisa Congdon</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1611489083482</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>BB4220</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1592817909850</id>
+    <published>2019-01-01T01:01:32-08:00</published>
+    <updated>2019-01-01T01:01:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/i-heart-space"/>
+    <title>I Heart Space Button Box</title>
+    <s:type>Button Box</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/BB4259-Space-2000px.jpg?v=1544656204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Button Box<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Heart Space Button Box by <a href="https://www.badgebomb.com/collections/allison-cole" target="_blank" rel="noopener noreferrer">Allison Cole</a>. <span style="font-weight: 400;">Box of 120 assorted 1.25 inch buttons. USA Made in Portland by Badge Bomb</span></p><p><span style="font-weight: 400;">Need more space? Click <a href="https://www.badgebomb.com/collections/space" target="_blank" rel="noopener">here</a>!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Space</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1592817909850</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>BB4259</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+</feed>

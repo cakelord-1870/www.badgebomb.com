@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/cats.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2021-06-03T01:00:15-07:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687439913127</id>
+    <published>2021-06-03T01:00:15-07:00</published>
+    <updated>2021-06-03T01:00:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/wild-cat-enamel-pin"/>
+    <title>Wild Cat Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4806-WildCat-800x800.jpg?v=1622656780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wild Cat Enamel Pin by Badge Bomb.</p><ul>
+<li>Hand-illustrated enamel pin</li>
+<li>Butterfly clasp for durability</li>
+<li>Brass core with enamel finishes.</li>
+<li>Packaged on backer card in hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cats</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687439913127</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4806</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6809000673447</id>
+    <published>2021-06-01T17:00:00-07:00</published>
+    <updated>2021-06-01T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/wild-cats-500-piece-puzle"/>
+    <title>Wild Cats 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4802-WildCats-Puzzle-SalesImage-1200px.jpg?v=1623766499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wild Cats 500 Piece Puzzle. Includes a printed poster of the puzzle design.</p><p>Puzzle Specs:</p><ul>
+<li>18” x 24” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Ribbon cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 11.75 x 8 x 2".</li>
+</ul><p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6809000673447</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4802</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/376804278301</id>
+    <published>2021-05-05T17:00:00-07:00</published>
+    <updated>2021-05-05T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/slay-cat-patch"/>
+    <title>Slay Cat Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Lisa Congdon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3759_SlayCat-Patch-WHITE-1600px.jpg?v=1515447904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisa Congdon<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slay Cat iron-on patch by Lisa Congdon.</p><ul>
+<li>Comes packaged in individual hang bag.</li>
+<li>Size: 2.25"</li>
+</ul><p><img src="//cdn.shopify.com/s/files/1/0203/0046/files/Oregon-Artist_medium.gif?v=1529684723" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cats</s:tag>
+    <s:tag>I Can’t Even</s:tag>
+    <s:tag>Lisa Congdon</s:tag>
+    <s:tag>Patches</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/376804278301</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>3759</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/3877178759</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/ahoy-cat-big-magnet"/>
+    <title>Ahoy Cat Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3119-GemmaCorrell-MAGNET-1200px.jpg?v=1516040516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/ahoy-cat-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ahoy Cat Big Magnet by Gemma Correll</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Cats</s:tag>
+    <s:tag>Gemma Correll</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3877178759</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3119</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3877178759</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3119 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/3877168327</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/i-cat-cats-big-magnet"/>
+    <title>I Cat Cats Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3117-GemmaCorrell-MAGNET-1200px.jpg?v=1516040567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/i-cat-cats-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Cat Cats Big Magnet by Gemma Correll</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3877168327</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3117</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3877168327</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3117 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/3877155399</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/in-your-dreams-cat-big-magnet"/>
+    <title>In Your Dreams Cat Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3115-GemmaCorrell-MAGNET-1200px.jpg?v=1516040569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/in-your-dreams-cat-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In Your Dreams Cat Big Magnet by Gemma Correll</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3877155399</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3115</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3877155399</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3115 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/372418801</id>
+    <published>2021-03-16T17:00:00-07:00</published>
+    <updated>2021-03-16T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/sweater-cat-big-magnet"/>
+    <title>Sweater Cat Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Kate Sutton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2695-KateSutton-MAGNET-1200px.jpg?v=1515801308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kate Sutton<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/sweater-cat-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweater Cat Big Magnet by Kate Sutton.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/372418801</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2695</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/372418801</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2695 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/3942560071</id>
+    <published>2021-03-03T16:00:00-08:00</published>
+    <updated>2021-03-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/bow-tie-black-kitty-big-magnet"/>
+    <title>Bow Tie Black Kitty Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Black Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2118-BlackApple-MAGNET-1200px.jpg?v=1515797579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Apple<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/bow-tie-black-kitty-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bow Tie Black Kitty Big Magnet by Black Apple</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Cats</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3942560071</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2118</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3942560071</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2118 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/10736655559</id>
+    <published>2021-02-24T01:00:07-08:00</published>
+    <updated>2021-02-24T01:00:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/weirdo-cat-iron-on-patch-by-gemma-correll"/>
+    <title>Weirdo Cat Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3954-BadgeBomb_WeirdCatPatch.jpg?v=1515004162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Weirdo Cat iron-on patch by <a href="https://www.badgebomb.com/collections/gemma-correll" target="_blank" rel="noopener noreferrer">Gemma Correll</a>.  </p><ul>
+<li>Comes packaged in individual hang bag. </li>
+<li>Size: 2.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cats</s:tag>
+    <s:tag>Gemma Correll</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/10736655559</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>3594</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/376581652509</id>
+    <published>2021-02-16T16:00:00-08:00</published>
+    <updated>2021-02-16T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/slay-cat-magnet"/>
+    <title>Slay Cat Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Lisa Congdon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3782-LisaCongdon-MAGNET-1200px_532262dc-d536-42b7-810b-71f07588b74e.jpg?v=1541536357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisa Congdon<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/slay-cat-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slay Cat Big Magnet by Lisa Congdon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Cats</s:tag>
+    <s:tag>I Can’t Even</s:tag>
+    <s:tag>Lisa Congdon</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/376581652509</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3782</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/376581652509</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>3782 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/3942534983</id>
+    <published>2021-02-09T16:00:00-08:00</published>
+    <updated>2021-02-09T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gray-and-white-big-kitty-big-magnet"/>
+    <title>Gray and White Big Kitty Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Black Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2476-BlackApple-MAGNET-1200px.jpg?v=1515797607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Apple<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/gray-and-white-big-kitty-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray and White Big Kitty Big Magnet by Black Apple</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3942534983</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2476</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/3942534983</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2476 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/372444869</id>
+    <published>2021-02-09T16:00:00-08:00</published>
+    <updated>2021-02-09T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/miseltoe-big-magnet"/>
+    <title>Mistletoe Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/2706-GemmaCorrell-MAGNET-1200px.jpg?v=1541546469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/miseltoe-big-magnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mistletoe Big Magnet by Gemma Correll</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/372444869</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>2706</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/372444869</id>
+      <title>Packaged 2.25&quot; Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>2706 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/351110529053</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/birthday-magical-cat"/>
+    <title>Birthday Magical Cat A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3903-AllisonCole-A2CARD-1200px.jpg?v=1515795780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Birthday</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/351110529053</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3903</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/351104466973</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/meowy-birthday-to-you"/>
+    <title>Meowy Birthday to You A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3901-AllisonCole-A2CARD-1200px.jpg?v=1515795779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>Birthday</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/351104466973</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>3901</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/10267694087</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/happy-birthday-cat-a2-card"/>
+    <title>Happy Birthday Cat Greeting Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Kate Sutton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3546-Card-BirthdayCat.jpg?v=1541545947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kate Sutton<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card </li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/10267694087</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>3546</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167421255847</id>
+    <published>2020-12-29T16:00:00-08:00</published>
+    <updated>2020-12-29T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/jungle-cat-purrfect-plants-sticker"/>
+    <title>Jungle Cat Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4732-STICKER-Jungle-Cat-900px.jpg?v=1609370606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jungle Cat Sticker by Allison Cole. Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul><p>All purchases support 1% For The Planet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167421255847</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4732</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167421190311</id>
+    <published>2020-12-29T16:00:00-08:00</published>
+    <updated>2020-12-29T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/cat-nap-purrfect-plants-sticker"/>
+    <title>Cat Nap Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4731-STICKER-Cat-Nap-Plant-900px.jpg?v=1609370604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cat Nap Sticker by Allison Cole. Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167421190311</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4731</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167421124775</id>
+    <published>2020-12-29T16:00:00-08:00</published>
+    <updated>2020-12-29T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/cat-scratch-purrfect-plants-sticker"/>
+    <title>Cat Scratch Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4730-STICKER-Cat-Rubbing-Plant-900px.jpg?v=1609370603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cat Scratch Sticker by Allison Cole. Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167421124775</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4730</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167420731559</id>
+    <published>2020-12-29T16:00:00-08:00</published>
+    <updated>2020-12-29T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/indoor-cat-sticker"/>
+    <title>Indoor Cat Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4724-STICKER-Indoor-Cat-900px.jpg?v=1609370594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indoor Cat Sticker by Gemma Correll. Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167420731559</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4724</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6167420633255</id>
+    <published>2020-12-29T16:00:00-08:00</published>
+    <updated>2020-12-29T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/meh-cat-sticker"/>
+    <title>Meh Cat Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4722-STICKER-Meh-Cat-900px.jpg?v=1609370592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meh Cat Sticker by Gemma Correll. Waterproof, sun-proof, long-lasting big sticker singles.</p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cats</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6167420633255</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4722</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6012117942439</id>
+    <published>2020-11-05T01:00:11-08:00</published>
+    <updated>2020-11-05T01:00:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/all-state-cat-petting-champion-enamel-pin"/>
+    <title>All State Cat Petting Champion Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4691-CatPettingChampion.jpg?v=1604519911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All State Cat Petting Champion Enamel Pin by Gemma Correll.</p><ul data-mce-fragment="1">
+<li>Hand-illustrated enamel pin.</li>
+<li>Butterfly clasp for durability.</li>
+<li>Packaged on backer card in a hang bag.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6012117942439</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4691</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5866633527463</id>
+    <published>2020-09-28T17:00:00-07:00</published>
+    <updated>2020-09-28T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/coven-cat-sticker"/>
+    <title>Coven Cat Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Andrea Kang</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4705-STICKER-3-eyed-900px.jpg?v=1601399989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Andrea Kang<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coven Cat Sticker by Andrea Kang. <span data-mce-fragment="1">Waterproof, sun-proof, long-lasting big sticker singles.</span></p><ul>
+<li>Made in USA</li>
+<li>Sold loose in 12s</li>
+<li>Longest side ~3 inches</li>
+</ul><p>See more designs by Andrea Kang <a title="Badge Bomb &amp; Andrea Kang Stickers Puzzles Buttons Magnets Enamel pins and more" href="../../../../../collections/andrea-kang" target="_blank" rel="noopener">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5866633527463</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4705</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5638516113575</id>
+    <published>2020-08-14T14:29:44-07:00</published>
+    <updated>2020-08-14T14:29:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/purrfect-plants-jigsaw-puzzle"/>
+    <title>Purrfect Plants 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4675-Purrfect-Plants-Mockup-1200px.jpg?v=1611327306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><em><strong></strong></em></span><span style="font-weight: 400;">Allison Cole is a Rhode Island-based illustrator and artist with an expansive catalog of thoughtful, witty designs. This puzzle is inspired by her many passions, including house plants, cozy spaces, and depending on how you feel about it, an alarming number of cats.</span></p>
+<p><span style="font-weight: 400;">Puzzle Specs:</span></p>
+<ul>
+<li><span style="font-weight: 400;">16.5” x 22.5” Puzzle.</span></li>
+<li><span style="font-weight: 400;">500 Pieces.</span></li>
+<li><span style="font-weight: 400;">Standard ribbon cut pieces.</span></li>
+<li><span style="font-weight: 400;">Made from 100% recycled gray board.</span></li>
+<li><span style="font-weight: 400;">Printed with vegetable-based inks.</span></li>
+<li><span style="font-weight: 400;">Compact box design to reduce packaging<meta charset="utf-8">
+<span data-mce-fragment="1">: 6.75 x 9.25 x 2"</span></span></li>
+</ul>
+<p><span style="font-weight: 400;">Badge Bomb is a member of 1% For The Planet!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5638516113575</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4675</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5638516080807</id>
+    <published>2020-08-14T14:29:42-07:00</published>
+    <updated>2020-08-14T14:29:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/cattitude-jigsaw-puzzle"/>
+    <title>Cattitude 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4679-CattitudePuzzle-SalesImage-1200px.jpg?v=1611327244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff8000;"><em><strong></strong></em></span><span style="font-weight: 400;">This puzzle is based on Gemma Correll's original Cattitude designs. Includes a poster of the puzzle design.</span></p>
+<ul>
+<li><span style="font-weight: 400;">16.5” x 22.5” Puzzle.</span></li>
+<li><span style="font-weight: 400;">500 Pieces.</span></li>
+<li><span style="font-weight: 400;">Random ribbon cut pieces.</span></li>
+<li><span style="font-weight: 400;">Made from 100% recycled gray board.</span></li>
+<li><span style="font-weight: 400;">Printed with vegetable-based inks.</span></li>
+<li><span style="font-weight: 400;">Compact box design to reduce packaging<meta charset="utf-8">
+<span data-mce-fragment="1">: 6.75 x 9.25 x 2"</span></span></li>
+</ul>
+<p><span style="font-weight: 400;">Badge Bomb is a member of 1% For The Planet!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homebodies</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5638516080807</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4679</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5585305632935</id>
+    <published>2020-08-02T17:00:00-07:00</published>
+    <updated>2020-08-02T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/weirdo-cat-sticker"/>
+    <title>Weirdo Cat Sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4684-GemmaCorrell-Weirdo.jpg?v=1596477585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Weirdo Cat Sticker by Gemma Correll<span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">. </span></p><ul>
+<li>Waterproof, sun-proof, long-lasting</li>
+<li>Approx 3.125 x 2.25"</li>
+<li>Sold loose in 12s</li>
+<li>Made in USA</li>
+</ul><p>Badge Bomb is a member of 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5585305632935</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>4684</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+</feed>

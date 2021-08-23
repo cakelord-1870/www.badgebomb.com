@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/patches.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2021-06-22T17:00:00-07:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/6858548576423</id>
+    <published>2021-06-22T17:00:00-07:00</published>
+    <updated>2021-06-22T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-inactive-wear-patch"/>
+    <title>Inactive Wear Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4426.jpg?v=1624473033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inactive Wear Patch by Gemma Correll.</p><ul style="color: #212b36; font-family: -apple-system, system-ui, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"><li>Packaged in our new plastic free 4" x 5" hang card with UPC.</li></ul><p>All Badge Bomb purchases support 1% For The Planet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dogs</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6858548576423</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4426</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/376804278301</id>
+    <published>2021-05-05T17:00:00-07:00</published>
+    <updated>2021-05-05T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/slay-cat-patch"/>
+    <title>Slay Cat Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Lisa Congdon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3759_SlayCat-Patch-WHITE-1600px.jpg?v=1515447904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisa Congdon<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slay Cat iron-on patch by Lisa Congdon.</p><ul>
+<li>Comes packaged in individual hang bag.</li>
+<li>Size: 2.25"</li>
+</ul><p><img src="//cdn.shopify.com/s/files/1/0203/0046/files/Oregon-Artist_medium.gif?v=1529684723" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cats</s:tag>
+    <s:tag>I Can’t Even</s:tag>
+    <s:tag>Lisa Congdon</s:tag>
+    <s:tag>Patches</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/376804278301</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>3759</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/8618553479</id>
+    <published>2021-03-30T17:00:00-07:00</published>
+    <updated>2021-03-30T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/lets-go-camping-patch"/>
+    <title>Let&apos;s Go Camping Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Hey Darlin&apos;</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3325_LetsGoCamping-Patch-WHITE-1200px.jpg?v=1541546337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin&#39;<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Let's Go Camping iron-on patch by Hey Darlin'. </p><ul>
+<li>Comes packaged in individual hang bag.</li>
+<li>Size: 2.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camping</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/8618553479</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>3325</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6482052935</id>
+    <published>2021-03-30T17:00:00-07:00</published>
+    <updated>2021-03-30T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/rollerskate-patch"/>
+    <title>Rollerskate Chenille Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3306_Rollerskate-Patch-WHITE-1200.jpg?v=1541546854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rollerskate Chenille iron-on patch by Allison Cole.</p><ul>
+<li>Patch comes packaged in individual hang bag. </li>
+<li>Size: approx. 3" x 3"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6482052935</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>3306</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1592762204250</id>
+    <published>2021-02-24T01:00:09-08:00</published>
+    <updated>2021-02-24T01:00:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/roll-with-it-patch"/>
+    <title>Roll With It Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Lisa Congdon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4218_RollwithIt-Patch-2000px_copy.jpg?v=1546036644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisa Congdon<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roll With It Patch by <a href="https://www.badgebomb.com/collections/lisa-congdon" target="_blank" rel="noopener noreferrer">Lisa Congdon</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lisa Congdon</s:tag>
+    <s:tag>Patches</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1592762204250</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4218</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/10736655559</id>
+    <published>2021-02-24T01:00:07-08:00</published>
+    <updated>2021-02-24T01:00:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/weirdo-cat-iron-on-patch-by-gemma-correll"/>
+    <title>Weirdo Cat Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3954-BadgeBomb_WeirdCatPatch.jpg?v=1515004162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Weirdo Cat iron-on patch by <a href="https://www.badgebomb.com/collections/gemma-correll" target="_blank" rel="noopener noreferrer">Gemma Correll</a>.  </p><ul>
+<li>Comes packaged in individual hang bag. </li>
+<li>Size: 2.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cats</s:tag>
+    <s:tag>Gemma Correll</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/10736655559</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>3594</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4492816613466</id>
+    <published>2020-01-01T01:00:41-08:00</published>
+    <updated>2020-01-01T01:00:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/bestseller-patch-box"/>
+    <title>Bestseller Patch Box</title>
+    <s:type>Patch Box</s:type>
+    <s:vendor>Badge Bomb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/PX4572-Besteller_Patch_Box-1600px.jpg?v=1581895748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb<br>
+        <strong>Type: </strong>Patch Box<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bestseller Patch Box! An assortment of nine Badge Bomb favorites, like the Rainbow Unicorn, Happy Camper, and Uneager Beaver! Save 25 cents per patch when you order patches in a box! </p><p><span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">Assorted box with 60 embroidered, iron-on patches. Fits on all Badge Bomb button box displays.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4492816613466</id>
+      <title>Default Title</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>PX4572</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/4371700940890</id>
+    <published>2019-11-11T16:00:00-08:00</published>
+    <updated>2019-11-11T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/catstrology-patch-box"/>
+    <title>Catstrology Patch Box</title>
+    <s:type>Patch Box</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/PX4428--Catstrology_Patch_Box-1600px.jpg?v=1581895463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patch Box<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Catstrology designs you know and love - now in patch form! Get $0.25 off each patch when you buy a patch box assortment of all 12 signs!</p><p>60 loose patches in a box display. <span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">Assorted box with 60 embroidered, iron-on patches.  Fits on all Badge Bomb button box displays.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cats</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/4371700940890</id>
+      <title>Default Title</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>PX4428</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1884031746138</id>
+    <published>2019-07-07T17:00:00-07:00</published>
+    <updated>2019-07-07T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/virgo-catstrology-patch"/>
+    <title>Virgo Catstrology Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Virgo.jpg?v=1562624500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Virgo Catstrology Patch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1884031746138</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4363</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1884031680602</id>
+    <published>2019-07-07T17:00:00-07:00</published>
+    <updated>2019-07-07T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/taurus-catstrology-patch"/>
+    <title>Taurus Catstrology Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Taurus.jpg?v=1562624497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Taurus Catstrology Patch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1884031680602</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4362</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1884031615066</id>
+    <published>2019-07-07T17:00:00-07:00</published>
+    <updated>2019-07-07T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/scorpio-catstrology-patch"/>
+    <title>Scorpio Catstrology Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Scorpio.jpg?v=1562624494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scorpio Catstrology Patch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1884031615066</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4361</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1884031549530</id>
+    <published>2019-07-07T17:00:00-07:00</published>
+    <updated>2019-07-07T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/sagittarius-catstrology-patch"/>
+    <title>Sagittarius Catstrology Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Sagitarrius.jpg?v=1562624491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sagittarius Catstrology Patch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1884031549530</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4360</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1884031516762</id>
+    <published>2019-07-07T17:00:00-07:00</published>
+    <updated>2019-07-07T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pisces-catstrology-patch"/>
+    <title>Pisces Catstrology Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Pisces.jpg?v=1562624488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pisces Catstrology Patch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1884031516762</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4359</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1884031483994</id>
+    <published>2019-07-07T17:00:00-07:00</published>
+    <updated>2019-07-07T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/libra-catstrology-patch"/>
+    <title>Libra Catstrology Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Libra.jpg?v=1562624484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Libra Catstrology Patch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1884031483994</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4358</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1884031418458</id>
+    <published>2019-07-07T17:00:00-07:00</published>
+    <updated>2019-07-07T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/leo-catstrology-patch"/>
+    <title>Leo Catstrology Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Leo.jpg?v=1562624482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Leo Catstrology Patch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1884031418458</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4357</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1884031352922</id>
+    <published>2019-07-07T17:00:00-07:00</published>
+    <updated>2019-07-07T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemini-catstrology-patch"/>
+    <title>Gemini Catstrology Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Gemini.jpg?v=1562624478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gemini Catstrology Patch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1884031352922</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4356</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1884031189082</id>
+    <published>2019-07-07T17:00:00-07:00</published>
+    <updated>2019-07-07T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/capricorn-catstrology-patch"/>
+    <title>Capricorn Catstrology Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Capricorn.jpg?v=1562624475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capricorn Catstrology Patch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1884031189082</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4355</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1884031156314</id>
+    <published>2019-07-07T17:00:00-07:00</published>
+    <updated>2019-07-07T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/cancer-catstrology-patch"/>
+    <title>Cancer Catstrology Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Cancer.jpg?v=1562624467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cancer Catstrology Patch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1884031156314</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4354</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1884031090778</id>
+    <published>2019-07-07T17:00:00-07:00</published>
+    <updated>2019-07-07T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/aries-catstrology-patch"/>
+    <title>Aries Catstrology Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Aries.jpg?v=1562624463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aries Catstrology Patch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1884031090778</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4353</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1884020801626</id>
+    <published>2019-07-07T17:00:00-07:00</published>
+    <updated>2019-07-07T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/aquarius-catstrology-patch"/>
+    <title>Aquarius Catstrology Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Aquarius_less_white_space.jpg?v=1562623579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aquarius Catstrology Patch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1884020801626</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4352</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1592759353434</id>
+    <published>2019-01-01T01:01:39-08:00</published>
+    <updated>2019-01-01T01:01:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/lisa-congdon-patch-box"/>
+    <title>Roll With It Patch Box</title>
+    <s:type>Patch Box</s:type>
+    <s:vendor>Lisa Congdon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/PX4311-RollwithIt.jpg?v=1545422403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisa Congdon<br>
+        <strong>Type: </strong>Patch Box<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Show your love for the 70's with our new retro-inspired <a href="https://www.badgebomb.com/collections/lisa-congdon" target="_blank" rel="noopener">Lisa Congdon</a> Patch Box!</p><p><span style="color: #111111; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">Assorted box with 60 embroidered, iron-on patches.  Fits on all Badge Bomb button box displays.</span></p><p>See Lisa's entire "Roll With It" collection <a href="https://www.badgebomb.com/collections/retro" target="_blank" rel="noopener">here</a>!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lisa Congdon</s:tag>
+    <s:tag>Patches</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1592759353434</id>
+      <title>Default Title</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>PX4311</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1564213575770</id>
+    <published>2019-01-01T01:01:32-08:00</published>
+    <updated>2019-01-01T01:01:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/flamingo-pool-floatie-felt-patch"/>
+    <title>Flamingo Pool Floatie Felt Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4310.jpg?v=1541538484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flamingo Pool Floatie Felt Patch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1564213575770</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4310</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1592761909338</id>
+    <published>2019-01-01T01:01:25-08:00</published>
+    <updated>2019-01-01T01:01:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/uneager-beaver-patch"/>
+    <title>Uneager Beaver Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4258_UneagerBeaver-Patch-2000px_rwBxchA.jpg?v=1546036339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Uneager Beaver Patch by <a href="https://www.badgebomb.com/collections/gemma-correll" target="_blank" rel="noopener noreferrer">Gemma Correll</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animals</s:tag>
+    <s:tag>Gemma Correll</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1592761909338</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4258</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1592760369242</id>
+    <published>2019-01-01T01:01:22-08:00</published>
+    <updated>2019-01-01T01:01:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/ufo-space-ship-patch"/>
+    <title>UFO Space Ship Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4285_UFOSpaceship-Patch-2000px_Ln0C51K.jpg?v=1546036412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UFO Space Ship Patch by Allison Cole. </p><p>See all space <a href="../../../../../space">here</a>!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Space</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1592760369242</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4285</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1592763056218</id>
+    <published>2019-01-01T01:01:13-08:00</published>
+    <updated>2019-01-01T01:01:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/sourpuss-cat-patch"/>
+    <title>Sourpuss Cat Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4272_SourPuss-Patch-2000px_FSMRG5A.jpg?v=1546036184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sourpuss Cat Patch by <a href="https://www.badgebomb.com/collections/gemma-correll" target="_blank" rel="noopener noreferrer">Gemma Correll</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cats</s:tag>
+    <s:tag>Gemma Correll</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1592763056218</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>4272</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+</feed>

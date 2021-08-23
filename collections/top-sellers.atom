@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/top-sellers.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2021-06-16T01:00:15-07:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687418351783</id>
+    <published>2021-06-16T01:00:15-07:00</published>
+    <updated>2021-06-16T01:00:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-pug-socks"/>
+    <title>Pug Socks by Gemma Correll</title>
+    <s:type>Socks</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4819-PugSocks-Square-WEB.jpg?v=1620325435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pug Socks by Gemma Correll.</p><ul>
+<li>Unisex.</li>
+<li>One size fits most.</li>
+<li>Cotton blend socks.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687418351783</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4819</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687418482855</id>
+    <published>2021-06-16T01:00:14-07:00</published>
+    <updated>2021-06-16T01:00:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/pride-socks"/>
+    <title>Pride Socks</title>
+    <s:type>Socks</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4822-PrideSocks-Square-WEB.jpg?v=1620325437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pride Socks by Badge Bomb.</p><ul>
+<li>Unisex.</li>
+<li>One size fits most.</li>
+<li>Cotton blend socks.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687418482855</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4822</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687418450087</id>
+    <published>2021-06-16T01:00:13-07:00</published>
+    <updated>2021-06-16T01:00:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/love-rainbow-socks"/>
+    <title>Love Rainbow Socks</title>
+    <s:type>Socks</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4821-LoveSocks-Square-WEB.jpg?v=1620325436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love Rainbow Socks by Badge Bomb.</p><ul>
+<li>Unisex.</li>
+<li>One size fits most.</li>
+<li>Cotton blend socks.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687418450087</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4821</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687418384551</id>
+    <published>2021-06-16T01:00:13-07:00</published>
+    <updated>2021-06-16T01:00:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/gemma-correll-cat-hair-on-everything-socks"/>
+    <title>Cat Hair on Everything Socks</title>
+    <s:type>Socks</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4820-CatHariSocks-Square-WEB.jpg?v=1620325435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cat Hair on Everything Socks by Gemma Correll.</p><ul>
+<li>Unisex.</li>
+<li>One size fits most.</li>
+<li>Cotton blend socks.</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687418384551</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4820</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6809000771751</id>
+    <published>2021-06-09T07:53:40-07:00</published>
+    <updated>2021-06-09T07:53:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/puzzlers-paradise-500-piece-puzzle"/>
+    <title>Puzzler&apos;s Paradise 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4800-Puzzler_sParadise-Puzzle-SalesImage-1200px.jpg?v=1623766516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Puzzler's Paradise 500 Piece Puzzle by Allison Cole. Includes a printed poster of the puzzle art.</p><p>Puzzle Specs:</p><ul>
+<li>18” x 24” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Ribbon cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 11.75 x 8 x 2".</li>
+</ul><p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6809000771751</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4800</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687439913127</id>
+    <published>2021-06-03T01:00:15-07:00</published>
+    <updated>2021-06-03T01:00:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/wild-cat-enamel-pin"/>
+    <title>Wild Cat Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4806-WildCat-800x800.jpg?v=1622656780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wild Cat Enamel Pin by Badge Bomb.</p><ul>
+<li>Hand-illustrated enamel pin</li>
+<li>Butterfly clasp for durability</li>
+<li>Brass core with enamel finishes.</li>
+<li>Packaged on backer card in hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cats</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687439913127</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4806</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6809000870055</id>
+    <published>2021-06-03T01:00:14-07:00</published>
+    <updated>2021-06-03T01:00:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/color-in-bloom-puzzle"/>
+    <title>Color In Bloom 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>She Is This</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4798-ColorInBloom-Puzzle-SheIsThis-1296px.jpg?v=1622663995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>She Is This<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Color In Bloom 500 Piece Puzzle. Includes a printed poster of the puzzle art.</p><p>Puzzle Specs:</p><ul>
+<li>18” x 24” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Ribbon cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 11.75 x 8 x 2".</li>
+</ul><p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6809000870055</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4798</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6809000476839</id>
+    <published>2021-06-03T01:00:14-07:00</published>
+    <updated>2021-06-03T01:00:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/dream-reality-by-gary-baseman-500-piece-puzzle"/>
+    <title>Dream Reality by Gary Baseman - 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Gary Baseman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4801-Baseman-DreamReality-SalesImage-300dpi.jpg?v=1622663966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gary Baseman<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dream Reality by Gary Baseman - 500 Piece Puzzle. Includes a printed poster of the puzzle artwork.</p>
+<p>Puzzle Specs:</p>
+<ul>
+<li>18” x 24” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Irregular cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 11.75 x 8 x 2".</li>
+</ul>
+<p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6809000476839</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4801</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6809000673447</id>
+    <published>2021-06-01T17:00:00-07:00</published>
+    <updated>2021-06-01T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/wild-cats-500-piece-puzle"/>
+    <title>Wild Cats 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4802-WildCats-Puzzle-SalesImage-1200px.jpg?v=1623766499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wild Cats 500 Piece Puzzle. Includes a printed poster of the puzzle design.</p><p>Puzzle Specs:</p><ul>
+<li>18” x 24” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Ribbon cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 11.75 x 8 x 2".</li>
+</ul><p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6809000673447</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4802</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6809000542375</id>
+    <published>2021-06-01T17:00:00-07:00</published>
+    <updated>2021-06-01T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/i-heart-portland-500-piece-puzzle"/>
+    <title>I Heart Portland 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Allison Cole Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4803-Portland-Puzzle-SalesImage-1200px.jpg?v=1623766540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole Illustration<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Heart Portland 500 Piece Puzzle. Includes a printed poster of the puzzle design.</p><p>Puzzle Specs:</p><ul>
+<li>16.5” x 22.5” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Random ribbon cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 6.75 x 9.25 x 2".</li>
+</ul><p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6809000542375</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4803</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687439847591</id>
+    <published>2021-06-01T01:00:16-07:00</published>
+    <updated>2021-06-01T01:00:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/queen-bee-enamel-pin"/>
+    <title>Queen Bee Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4805-QueenBee-800x800.jpg?v=1622656752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Queen Bee Enamel Pin by Badge Bomb.</p><ul>
+<li>Hand-illustrated enamel pin</li>
+<li>Butterfly clasp for durability</li>
+<li>Brass core with satin and enamel finishes.</li>
+<li>Packaged on backer card in hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687439847591</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4805</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687439782055</id>
+    <published>2021-06-01T01:00:13-07:00</published>
+    <updated>2021-06-01T01:00:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/peace-symbol-enamel-pin-satin-nickel"/>
+    <title>Peace Symbol Enamel Pin</title>
+    <s:type>Enamel Pin</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4693-1200x1200.jpg?v=1620326773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Enamel Pin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Peace Symbol Enamel Pin by Badge Bomb.</p><ul>
+<li>Satin nickel finish</li>
+<li>Butterfly clasp for durability</li>
+<li>Packaged on backer card in hang bag</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687439782055</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>4693</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687294619815</id>
+    <published>2021-05-17T01:00:12-07:00</published>
+    <updated>2021-05-17T01:00:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/lisa-congdon-keep-showing-up-magnet"/>
+    <title>Keep Showing Up Rectangle Magnet</title>
+    <s:type>2.5x3.5 Rectangular Magnet</s:type>
+    <s:vendor>Lisa Congdon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4791.jpg?v=1620322475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisa Congdon<br>
+        <strong>Type: </strong>2.5x3.5 Rectangular Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep Showing Up Magnet by Lisa Congdon.</p><ul>
+<li>2.5" x 3.5"</li>
+<li>USA made with recycled paper &amp; steel</li>
+<li>Hand-pressed by Badge Bomb</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687294619815</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4791</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687294750887</id>
+    <published>2021-05-15T01:00:16-07:00</published>
+    <updated>2021-05-15T01:00:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/lisa-congdon-you-are-not-alone-magnet"/>
+    <title>You Are Not Alone Rectangle Magnet</title>
+    <s:type>2.5x3.5 Rectangular Magnet</s:type>
+    <s:vendor>Lisa Congdon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4795.jpg?v=1620322504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisa Congdon<br>
+        <strong>Type: </strong>2.5x3.5 Rectangular Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You Are Not Alone Magnet by Lisa Congdon.</p><ul>
+<li>2.5" x 3.5"</li>
+<li>USA made with recycled paper &amp; steel</li>
+<li>Hand-pressed by Badge Bomb</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687294750887</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4795</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687294554279</id>
+    <published>2021-05-15T01:00:16-07:00</published>
+    <updated>2021-05-15T01:00:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/lisa-congdon-there-is-nothing-wrong-with-you-magnet"/>
+    <title>There Is Nothing Wrong With You Rectangle Magnet</title>
+    <s:type>2.5x3.5 Rectangular Magnet</s:type>
+    <s:vendor>Lisa Congdon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4790.jpg?v=1620322470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisa Congdon<br>
+        <strong>Type: </strong>2.5x3.5 Rectangular Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There Is Nothing Wrong With You Magnet by Lisa Congdon.</p><ul>
+<li>2.5" x 3.5"</li>
+<li>USA made with recycled paper &amp; steel</li>
+<li>Hand-pressed by Badge Bomb</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687294554279</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4790</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687294652583</id>
+    <published>2021-05-15T01:00:14-07:00</published>
+    <updated>2021-05-15T01:00:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/lisa-congdon-consider-everything-an-experiment-magnet"/>
+    <title>Consider Everything an Experiment Rectangle Magnet</title>
+    <s:type>2.5x3.5 Rectangular Magnet</s:type>
+    <s:vendor>Lisa Congdon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4792.jpg?v=1620322481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisa Congdon<br>
+        <strong>Type: </strong>2.5x3.5 Rectangular Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Consider Everything an Experiment Magnet by Lisa Congdon.</p><ul>
+<li>2.5" x 3.5"</li>
+<li>USA made with recycled paper &amp; steel</li>
+<li>Hand-pressed by Badge Bomb</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687294652583</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4792</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687287083175</id>
+    <published>2021-05-15T01:00:14-07:00</published>
+    <updated>2021-05-15T01:00:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/lisa-congdon-be-gentle-with-yourself-magnet"/>
+    <title>Lisa Congdon - Be Gentle With Yourself Magnet</title>
+    <s:type>2.5x3.5 Rectangular Magnet</s:type>
+    <s:vendor>Lisa Congdon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4788_70cc30de-303b-4850-935e-c80b2e9fce67.jpg?v=1620320068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisa Congdon<br>
+        <strong>Type: </strong>2.5x3.5 Rectangular Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Be Gentle With Yourself Rectangle Magnet </p><ul>
+<li>2.5" x 3.5"</li>
+<li>USA made with recycled paper &amp; steel</li>
+<li>Hand-pressed by Badge Bomb</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687287083175</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4788</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687294718119</id>
+    <published>2021-05-15T01:00:13-07:00</published>
+    <updated>2021-05-15T01:00:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/lisa-congdon-be-the-light-magnet"/>
+    <title>Be The Light Rectangle Magnet</title>
+    <s:type>2.5x3.5 Rectangular Magnet</s:type>
+    <s:vendor>Lisa Congdon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4794.jpg?v=1620322495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisa Congdon<br>
+        <strong>Type: </strong>2.5x3.5 Rectangular Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Be The Light Magnet by Lisa Congdon.</p><ul>
+<li>2.5" x 3.5"</li>
+<li>USA made with recycled paper &amp; steel</li>
+<li>Hand-pressed by Badge Bomb</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687294718119</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4794</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6687294685351</id>
+    <published>2021-05-15T01:00:12-07:00</published>
+    <updated>2021-05-15T01:00:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/lisa-congdon-all-in-water-magnet"/>
+    <title>All In Water Rectangle Magnet</title>
+    <s:type>2.5x3.5 Rectangular Magnet</s:type>
+    <s:vendor>Lisa Congdon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4793.jpg?v=1620322487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisa Congdon<br>
+        <strong>Type: </strong>2.5x3.5 Rectangular Magnet<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All In Water Magnet by Lisa Congdon.</p><ul>
+<li>2.5" x 3.5"</li>
+<li>USA made with recycled paper &amp; steel</li>
+<li>Hand-pressed by Badge Bomb</li>
+</ul><p>All purchases support 1% For The Planet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6687294685351</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4793</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/6646201417895</id>
+    <published>2021-04-19T01:00:10-07:00</published>
+    <updated>2021-04-19T01:00:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/cosmic-dreams-500-piece-puzzle"/>
+    <title>Cosmic Dreams 500 Piece Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>Badge Bomb- LS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4719-CosmicDreans-Puzzle-SalesImage-1200px.jpg?v=1618601130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb- LS<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cosmic Dreams 500 Piece Puzzle. Includes a printed poster of the puzzle design. </p>
+<p>Puzzle Specs:</p>
+<ul>
+<li>18” x 24” finished puzzle.</li>
+<li>500 pieces.</li>
+<li>Irregular cut pieces.</li>
+<li>Made from 100% recycled gray board.</li>
+<li>Printed with vegetable-based inks.</li>
+<li>Puzzle box is 11.75 x 8 x 2".<br>
+</li>
+</ul>
+<p>1% of all sales go to environmental non-profits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Space</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6646201417895</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>4719</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1600253001818</id>
+    <published>2021-03-03T16:00:00-08:00</published>
+    <updated>2021-03-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/texas-hat-yellow"/>
+    <title>Texas Hat Yellow Big Magnet</title>
+    <s:type>2.25&quot; Magnet</s:type>
+    <s:vendor>Hey Darlin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4200-TexasHatYellow-MAGNET.jpg?v=1545417087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hey Darlin<br>
+        <strong>Type: </strong>2.25&quot; Magnet<br>
+        <strong>Price: </strong>
+            1.95 - 2.20
+            <a href="https://www.badgebomb.com/products/texas-hat-yellow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Texas Hat Yellow Big Magnet</p><p>See more city and state products at <a href="http://badgebomb.com/local" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=http://badgebomb.com/local&amp;source=gmail&amp;ust=1546538405834000&amp;usg=AFQjCNGyF5GzR4HSTjBxFHRlT8rcblPwNQ">badgebomb.com/local</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Big Magnet</s:tag>
+    <s:tag>Texas</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1600253001818</id>
+      <title>2.25&quot; Big Magnet</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>4200</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1600253001818</id>
+      <title>Packaged Big Magnet</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>4200 PKG</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/10736655559</id>
+    <published>2021-02-24T01:00:07-08:00</published>
+    <updated>2021-02-24T01:00:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/weirdo-cat-iron-on-patch-by-gemma-correll"/>
+    <title>Weirdo Cat Patch</title>
+    <s:type>Patches</s:type>
+    <s:vendor>Gemma Correll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3954-BadgeBomb_WeirdCatPatch.jpg?v=1515004162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gemma Correll<br>
+        <strong>Type: </strong>Patches<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Weirdo Cat iron-on patch by <a href="https://www.badgebomb.com/collections/gemma-correll" target="_blank" rel="noopener noreferrer">Gemma Correll</a>.  </p><ul>
+<li>Comes packaged in individual hang bag. </li>
+<li>Size: 2.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cats</s:tag>
+    <s:tag>Gemma Correll</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/10736655559</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>3594</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/744045150298</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/mom-thanks-trophy"/>
+    <title>Mom Thanks Trophy A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3989-AllisonCole-A2CARD-1200px_0e6a9a46-bfab-4a24-baa4-c06f31b6b322.jpg?v=1522950335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/744045150298</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>3989</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/744044888154</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/mom-nothing-without-you"/>
+    <title>Mom Nothing Without You A2 Card</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3988-AllisonCole-A2CARD-1200px_1f0379fb-2f5d-4770-a337-029dca16618a.jpg?v=1522950333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            1.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greeting Card</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/744044888154</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.69</s:price>
+      <s:sku>3988</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/381857955869</id>
+    <published>2021-02-03T16:00:00-08:00</published>
+    <updated>2021-02-03T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/thinking-of-you-letter-card"/>
+    <title>Thinking of You Letter</title>
+    <s:type>A2 Card</s:type>
+    <s:vendor>Allison Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/3924-AllisonCole-A2CARD-1200px.jpg?v=1515795734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allison Cole<br>
+        <strong>Type: </strong>A2 Card<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Blank Inside.</div><ul>
+<li>4.25" x 5.5" A2 size greeting card</li>
+<li>Printed with soy ink in the USA</li>
+<li>FSC certified 100% post-consumer recycled paper</li>
+<li>Packaged in plastic sleeves with recycled envelope</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allison Cole</s:tag>
+    <s:tag>coffee &amp; such</s:tag>
+    <s:tag>Greeting Card</s:tag>
+    <s:tag>Homebodies</s:tag>
+    <s:tag>Sympathy/Sorry</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/381857955869</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>3924</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+</feed>

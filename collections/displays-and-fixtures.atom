@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.badgebomb.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.badgebomb.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.badgebomb.com/collections/displays-and-fixtures.atom"/>
+  <title>Badge Bomb Wholesale</title>
+  <updated>2020-11-18T16:00:00-08:00</updated>
+  <author>
+    <name>Badge Bomb Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.badgebomb.com/products/6060171198631</id>
+    <published>2020-11-18T16:00:00-08:00</published>
+    <updated>2020-11-18T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/big-sticker-display-free-with-240-stickers"/>
+    <title>Big Sticker Display</title>
+    <s:type>Display</s:type>
+    <s:vendor>Badge Bomb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Sticker_Display.jpeg?v=1605817023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb<br>
+        <strong>Type: </strong>Display<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Big Sticker Display!</p><ul style="box-sizing: border-box; margin: 0px 0px 16px 20px; padding: 0px; list-style-position: outside; list-style-image: initial; color: #535456; font-family: Lato, HelveticaNeue, 'Helvetica Neue', sans-serif; font-size: 15px;">
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">4 shelves of sustainable wood &amp; acrylic</li>
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">FREE with 20 sticker styles, upon request!</li>
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">Requires assembly, freight not included</li>
+<li style="box-sizing: border-box; margin-bottom: 0.4em;"><span style="color: #535456; font-family: Lato, HelveticaNeue, Helvetica Neue, sans-serif;"><span style="font-size: 15px;">12-1/4" W x 8-1/4" H x 9" D</span></span></li>
+<li style="box-sizing: border-box; margin-bottom: 0.4em;">One free per store location</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/6060171198631</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>DSPSTK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/1887398133850</id>
+    <published>2019-07-10T17:00:00-07:00</published>
+    <updated>2019-07-10T17:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/48-pocket-card-display-made-to-order"/>
+    <title>48-Pocket Card Display</title>
+    <s:type>Display</s:type>
+    <s:vendor>Badge Bomb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/plywoodspinner_exampleJan2019_square.jpg?v=1562865818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb<br>
+        <strong>Type: </strong>Display<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>48-pocket Card Display</p><ul>
+<li>Each pocket holds 12 Cards or 6 Patch cards</li>
+<li>16" D x 16" W x 68.5" H</li>
+<li>FREE with 576 card purchase (or 288 patch cards) upon request!</li>
+<li>Requires assembly, freight not included</li>
+<li>One free per store location</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/1887398133850</id>
+      <title>Default Title</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>GCSDSP</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/5353516231</id>
+    <published>2019-02-12T16:00:00-08:00</published>
+    <updated>2019-02-12T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/magnet-spinner-counter-display"/>
+    <title>Magnet Spinner Display</title>
+    <s:type>Display</s:type>
+    <s:vendor>Badge Bomb: Buttons + Magnets + Enamel Pins + Patches + Cards + Stickers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/MSP4-2019.jpg?v=1549702822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb: Buttons + Magnets + Enamel Pins + Patches + Cards + Stickers<br>
+        <strong>Type: </strong>Display<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Two-Sided Magnet Spinner Counter Display</p><ul>
+<li>Birch</li>
+<li>Holds 30 styles per side (or 180 stacked 3 deep)</li>
+<li>12" D x 11" W x 17" H</li>
+<li>Free with 180 Magnet order!</li>
+<li>Limit 1 free magnet display per store location</li>
+</ul><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/5353516231</id>
+      <title>Magnet Spinner Counter Display / Holds 28 Magnets Per Side</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MSP4</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/395430125</id>
+    <published>2019-02-12T16:00:00-08:00</published>
+    <updated>2019-02-12T16:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/16-button-box-wooden-floor-display"/>
+    <title>16 Box Floor Display</title>
+    <s:type>Display</s:type>
+    <s:vendor>Badge Bomb Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/DSP16-2019-signed-2000px.jpg?v=1549702820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb Original<br>
+        <strong>Type: </strong>Display<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>16 Box Floor Display</p><ul>
+<li>4 shelves, holds 16 Boxes</li>
+<li>17" D x 26" W x 72" H</li>
+<li>FREE with 16 box purchase upon request!</li>
+<li>Requires assembly, freight not included</li>
+<li>One free per store location</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>button box</s:tag>
+    <s:tag>display</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/395430125</id>
+      <title>16 Box Wooden Floor Display / Holds 16 Button Boxes</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>DSP16</s:sku>
+      <s:grams>40000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/200026473</id>
+    <published>2018-03-15T13:16:02-07:00</published>
+    <updated>2018-03-15T13:16:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/4-button-box-wood-countertop-display"/>
+    <title>4-Box Recycled Display</title>
+    <s:type>Display</s:type>
+    <s:vendor>Badge Bomb Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/4boxdisplay.jpg?v=1616692220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb Original<br>
+        <strong>Type: </strong>Display<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our eco-friendly cardboard 4-box display is USA Made, completely recyclable, and consists of at least 50 percent recycled content. </p><p>It ships assembled, and is an awesome way to display both button and patch boxes! </p><p>FREE with every 4 button or patch box purchase upon request! </p><p>8.5" W x 13" D x  12" H (once button boxes are opened for display).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>button box</s:tag>
+    <s:tag>Counter Display</s:tag>
+    <s:tag>display</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/200026473</id>
+      <title>4 Button Box Recycled Display / Holds 4 Button Boxes</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>DSP4BB</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/385330797</id>
+    <published>2016-01-14T14:06:00-08:00</published>
+    <updated>2016-01-14T14:06:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/best-sellers-magnet-locker"/>
+    <title>Best Sellers Magnet Bundle Program with a Locker</title>
+    <s:type>Display</s:type>
+    <s:vendor>Badge Bomb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Locker-with-Magnets-1800px.jpg?v=1549646056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb<br>
+        <strong>Type: </strong>Display<br>
+        <strong>Price: </strong>
+            600.00 - 1050.00
+            <a href="https://www.badgebomb.com/products/best-sellers-magnet-locker">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Get a Badge Bomb  Locker Magnet Display loaded with an assortment of our best selling Big Magnets!  We do all the work. </p>
+<p>#0003  300 Best Seller Assortment (<span style="color: #ff9900;"><em>50% OFF locker &amp; 10% off magnets</em></span>). </p>
+<meta charset="utf-8">
+<p><span>#0006  600 Best Seller Assortment (<span style="color: #ff9900;"><em>FREE LOCKER </em></span></span><span style="color: #ff9900;"><em>&amp;</em></span><span><span style="color: #ff9900;"><em> 10% off magnets</em></span>). </span> </p>
+<div>
+<ul>
+<li><span>Available in Orange, Black, <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">NEW!</span></span> White locker. </span></li>
+<li><span>Locker Requires assembly.  </span></li>
+<li><span>Freight not included. </span></li>
+</ul>
+<p><span><span>Assembled dimensions are </span></span><span>15” W x 15” D x 54” H. </span></p>
+<p><span><a href="https://www.youtube.com/watch?v=OJmna1Pkkks" target="_blank" rel="noopener noreferrer">Assembly instructions here!</a></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>locker page</s:tag>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/385330797</id>
+      <title>Orange Loaded Locker magnet Display / #0003 • 300 Piece Best Seller Assortment</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku>0003-Orange</s:sku>
+      <s:grams>29000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/385330797</id>
+      <title>White / #0003 • 300 Piece Best Seller Assortment</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku>0003-White</s:sku>
+      <s:grams>29000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/385330797</id>
+      <title>Orange Loaded Locker magnet Display / #0006 • 600 Piece Best Seller Assortment</title>
+      <s:price currency="USD">1050.00</s:price>
+      <s:sku>0006-Orange</s:sku>
+      <s:grams>34000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/385330797</id>
+      <title>White / #0006 • 600 Piece Best Seller Assortment</title>
+      <s:price currency="USD">1050.00</s:price>
+      <s:sku>0006-White</s:sku>
+      <s:grams>34000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/385330797</id>
+      <title>Black Loaded Locker magnet Display / #0003 • 300 Piece Best Seller Assortment</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku>0003-Black</s:sku>
+      <s:grams>29000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/385330797</id>
+      <title>Black Loaded Locker magnet Display / #0006 • 600 Piece Best Seller Assortment</title>
+      <s:price currency="USD">1050.00</s:price>
+      <s:sku>0006-Black</s:sku>
+      <s:grams>34000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.badgebomb.com/products/338146993</id>
+    <published>2014-07-02T14:49:00-07:00</published>
+    <updated>2014-07-02T14:49:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.badgebomb.com/products/locker-display"/>
+    <title>Magnet Display Orange Locker</title>
+    <s:type>Display</s:type>
+    <s:vendor>Badge Bomb: Buttons + Magnets + Enamel Pins + Patches + Cards + Stickers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0203/0046/products/Locker-Only-2019.jpg?v=1551979599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badge Bomb: Buttons + Magnets + Enamel Pins + Patches + Cards + Stickers<br>
+        <strong>Type: </strong>Display<br>
+        <strong>Price: </strong>
+            0.00 - 150.00
+            <a href="https://www.badgebomb.com/products/locker-display">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/338146993</id>
+      <title>Orange / W/ 5 Magnet Bundles (or 300 magnets)</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>DSPSLO</s:sku>
+      <s:grams>50000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/338146993</id>
+      <title>Orange / W/ 10 Magnet Bundles (or 600 Magnets)</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>DSPSLO</s:sku>
+      <s:grams>34000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/338146993</id>
+      <title>Black / W/ 5 Magnet Bundles (or 300 magnets)</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>DSPSLB</s:sku>
+      <s:grams>29000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/338146993</id>
+      <title>Black / W/ 10 Magnet Bundles (or 600 Magnets)</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>DSPSLB</s:sku>
+      <s:grams>34000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/338146993</id>
+      <title>White / W/ 5 Magnet Bundles (or 300 magnets)</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>DSPSLW</s:sku>
+      <s:grams>29000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.badgebomb.com/products/338146993</id>
+      <title>White / W/ 10 Magnet Bundles (or 600 Magnets)</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>DSPSLW</s:sku>
+      <s:grams>34000</s:grams>
+    </s:variant>
+  </entry>
+</feed>
